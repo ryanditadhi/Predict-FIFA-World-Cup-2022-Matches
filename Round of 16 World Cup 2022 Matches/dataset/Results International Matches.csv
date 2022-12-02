@@ -1,0 +1,602 @@
+date,home_team,away_team,home_att,away_att,home_mid,away_mid,home_def,away_def,home_score,away_score,home_rank,away_rank,home_rankpoint,away_rankpoint,tournament,city,country,neutral
+2018-09-06,Germany,France,84,82,85,85,85,82,0,0,15,1,1561,1726,UEFA Nations League,Munich,Germany,FALSE
+2018-09-06,Wales,Republic of Ireland,82,75,71,74,77,75,4,1,19,29,1536,1484,UEFA Nations League,Cardiff,Wales,FALSE
+2018-09-06,Slovenia,Bulgaria,72,70,76,69,72,67,1,2,55,47,1392,1416,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2018-09-06,Austria,Sweden,80,76,77,75,75,75,2,0,23,13,1502,1565,Friendly,Vienna,Austria,FALSE
+2018-09-06,Netherlands,Peru,79,80,80,77,80,75,2,1,17,20,1540,1535,Friendly,Amsterdam,Netherlands,FALSE
+2018-09-06,Portugal,Croatia,85,80,82,82,80,78,1,1,7,4,1599,1643,Friendly,Faro-Loulé,Portugal,FALSE
+2018-09-07,Italy,Poland,85,82,81,76,85,75,1,1,21,18,1532,1538,UEFA Nations League,Bologna,Italy,FALSE
+2018-09-07,Turkey,Russia,78,80,77,78,74,76,1,2,38,49,1455,1410,UEFA Nations League,Trabzon,Turkey,FALSE
+2018-09-07,South Korea,Costa Rica,74,69,74,73,70,73,2,0,57,32,1387,1471,Friendly,Goyang,South Korea,FALSE
+2018-09-07,Mexico,Uruguay,79,86,79,76,75,79,1,4,16,5,1560,1627,Friendly,Houston,United States,TRUE
+2018-09-07,Scotland,Belgium,75,86,74,83,74,85,0,4,40,2,1444,1723,Friendly,Glasgow,Scotland,FALSE
+2018-09-07,United States,Brazil,76,86,76,83,74,85,0,2,22,3,1508,1657,Friendly,East Rutherford,United States,FALSE
+2018-09-07,Venezuela,Colombia,77,81,73,77,70,78,1,2,31,14,1476,1563,Friendly,Miami Gardens,United States,TRUE
+2018-09-08,Switzerland,Iceland,74,73,77,74,78,69,6,0,8,32,1597,1471,UEFA Nations League,St. Gallen,Switzerland,FALSE
+2018-09-08,England,Spain,84,84,81,86,81,85,1,2,6,9,1615,1580,UEFA Nations League,London,England,FALSE
+2018-09-08,Finland,Hungary,71,73,69,69,66,71,1,0,62,51,1364,1409,UEFA Nations League,Tampere,Finland,FALSE
+2018-09-09,France,Netherlands,82,79,85,80,82,80,2,1,1,17,1726,1540,UEFA Nations League,Paris,France,FALSE
+2018-09-09,Denmark,Wales,76,82,79,71,75,77,2,0,9,19,1580,1536,UEFA Nations League,Aarhus,Denmark,FALSE
+2018-09-09,Bulgaria,Norway,70,74,69,74,67,73,1,0,47,53,1416,1406,UEFA Nations League,Sofia,Bulgaria,FALSE
+2018-09-09,Germany,Peru,84,73,85,72,85,71,2,1,15,20,1561,1535,Friendly,Sinsheim,Germany,FALSE
+2018-09-10,Portugal,Italy,85,85,82,81,80,85,1,0,7,21,1599,1532,UEFA Nations League,Lisbon,Portugal,FALSE
+2018-09-10,Sweden,Turkey,76,78,75,77,75,74,2,3,13,38,1565,1455,UEFA Nations League,Stockholm,Sweden,FALSE
+2018-09-10,Serbia,Romania,75,72,79,72,76,70,2,2,36,28,1459,1490,UEFA Nations League,Belgrade,Serbia,FALSE
+2018-09-10,Russia,Czech Republic,80,76,78,74,76,73,5,1,49,44,1410,1430,Friendly,Rostov-on-Don,Russia,FALSE
+2018-09-10,Saudi Arabia,Bolivia,73,69,72,67,73,66,2,2,70,59,1336,1378,Friendly,Riyadh,Saudi Arabia,FALSE
+2018-09-11,Iceland,Belgium,73,86,74,83,69,85,0,3,32,2,1471,1723,UEFA Nations League,Reykjavík,Iceland,FALSE
+2018-09-11,Spain,Croatia,84,80,86,82,85,78,6,0,9,4,1580,1643,UEFA Nations League,Elche,Spain,FALSE
+2018-09-11,Hungary,Greece,73,78,69,74,71,77,2,1,51,42,1409,1436,UEFA Nations League,Budapest,Hungary,FALSE
+2018-09-11,Colombia,Argentina,81,87,77,80,78,80,0,0,14,11,1563,1574,Friendly,East Rutherford,United States,TRUE
+2018-09-11,England,Switzerland,84,74,81,77,81,78,1,0,6,8,1615,1597,Friendly,London,England,FALSE
+2018-09-11,Japan,Costa Rica,76,69,77,73,74,73,3,0,55,32,1392,1471,Kirin Challenge Cup,Suita,Japan,FALSE
+2018-09-11,South Korea,Chile,74,77,74,80,70,75,0,0,57,12,1387,1570,Friendly,Suwon,South Korea,FALSE
+2018-09-11,Panama,Venezuela,68,77,68,73,68,70,0,2,69,31,1343,1476,Friendly,Panama City,Panama,FALSE
+2018-09-11,Poland,Republic of Ireland,82,75,76,74,75,75,1,1,18,29,1538,1484,Friendly,Wrocław,Poland,FALSE
+2018-09-11,United States,Mexico,76,79,76,79,74,75,1,0,22,16,1508,1560,Friendly,Nashville,United States,FALSE
+2018-10-11,Poland,Portugal,81,85,75,82,72,80,2,3,18,7,1537,1606,UEFA Nations League,Chorzów,Poland,FALSE
+2018-10-11,Russia,Sweden,79,78,77,75,76,76,0,0,46,15,1423,1550,UEFA Nations League,Kaliningrad,Russia,FALSE
+2018-10-11,France,Iceland,82,75,86,73,82,71,2,2,1,36,1729,1461,Friendly,Guingamp,France,FALSE
+2018-10-11,United States,Colombia,73,82,73,80,74,77,2,4,22,14,1510,1567,Friendly,Tampa,United States,FALSE
+2018-10-11,Wales,Spain,82,84,73,86,73,86,1,4,19,9,1536,1597,Friendly,Cardiff,Wales,FALSE
+2018-10-12,Belgium,Switzerland,86,73,83,77,85,77,2,1,1,8,1729,1598,UEFA Nations League,Brussels,Belgium,FALSE
+2018-10-12,Austria,Northern Ireland,79,70,78,71,76,72,1,0,24,28,1499,1487,UEFA Nations League,Vienna,Austria,FALSE
+2018-10-12,Greece,Hungary,78,71,74,71,78,73,1,0,42,49,1433,1409,UEFA Nations League,Athens,Greece,FALSE
+2018-10-12,Peru,Chile,76,82,74,78,70,73,3,0,21,12,1525,1568,Friendly,Miami Gardens,United States,TRUE
+2018-10-13,Netherlands,Germany,80,84,80,85,81,84,3,0,17,12,1540,1568,UEFA Nations League,Amsterdam,Netherlands,FALSE
+2018-10-13,Republic of Ireland,Denmark,73,77,73,79,75,77,0,0,30,10,1478,1581,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2018-10-13,Norway,Slovenia,75,72,75,77,73,73,1,0,52,61,1405,1376,UEFA Nations League,Oslo,Norway,FALSE
+2018-10-14,Poland,Italy,81,84,75,81,72,83,0,1,18,20,1537,1526,UEFA Nations League,Chorzów,Poland,FALSE
+2018-10-14,Russia,Turkey,79,78,77,77,76,74,2,0,46,38,1423,1456,UEFA Nations League,Sochi,Russia,FALSE
+2018-10-14,Scotland,Portugal,74,85,75,82,74,80,1,3,39,7,1448,1606,Friendly,Glasgow,Scotland,FALSE
+2018-10-15,Iceland,Switzerland,75,73,73,77,71,77,1,2,36,8,1461,1598,UEFA Nations League,Reykjavík,Iceland,FALSE
+2018-10-15,Spain,England,84,84,86,82,86,81,2,3,9,6,1597,1612,UEFA Nations League,Seville,Spain,FALSE
+2018-10-15,Finland,Greece,70,78,69,74,66,78,2,0,58,42,1378,1433,UEFA Nations League,Tampere,Finland,FALSE
+2018-10-16,France,Germany,82,84,86,85,82,84,2,1,1,12,1729,1568,UEFA Nations League,Paris,France,FALSE
+2018-10-16,Republic of Ireland,Wales,73,82,73,73,75,73,0,1,30,19,1478,1536,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2018-10-16,Norway,Bulgaria,75,69,75,63,73,67,1,0,52,44,1405,1430,UEFA Nations League,Oslo,Norway,FALSE
+2018-10-16,Belgium,Netherlands,86,80,83,80,85,81,1,1,1,17,1729,1540,Friendly,Brussels,Belgium,FALSE
+2018-10-16,Denmark,Austria,77,79,79,78,77,76,2,0,10,24,1581,1499,Friendly,Herning,Denmark,FALSE
+2018-10-16,Mexico,Chile,79,82,76,78,74,73,0,1,15,12,1550,1568,Friendly,Querétaro,Mexico,FALSE
+2018-10-16,United States,Peru,73,76,73,74,74,70,1,1,22,21,1510,1525,Friendly,East Hartford,United States,FALSE
+2018-10-16,Argentina,Brazil,87,84,81,80,80,80,0,1,11,3,1575,1663,Superclásico de las Américas,Jeddah,Saudi Arabia,TRUE
+2018-11-15,Belgium,Iceland,86,73,83,74,85,71,2,0,1,36,1733,1458,UEFA Nations League,Brussels,Belgium,FALSE
+2018-11-15,Greece,Finland,77,70,74,69,78,66,1,0,42,56,1432,1392,UEFA Nations League,Athens,Greece,FALSE
+2018-11-15,England,United States,85,73,81,73,81,74,3,0,5,23,1619,1506,Friendly,London,England,FALSE
+2018-11-15,Germany,Russia,84,79,85,77,83,76,3,0,14,41,1555,1433,Friendly,Leipzig,Germany,FALSE
+2018-11-15,Peru,Ecuador,76,74,74,70,69,69,0,2,20,61,1530,1371,Friendly,Lima,Peru,FALSE
+2018-11-15,Poland,Czech Republic,81,73,75,74,73,74,0,1,21,48,1523,1420,Friendly,Gdańsk,Poland,FALSE
+2018-11-15,Republic of Ireland,Northern Ireland,73,69,72,71,75,72,0,0,33,34,1473,1472,Friendly,Dublin,Republic of Ireland,FALSE
+2018-11-16,Netherlands,France,81,82,80,86,81,82,2,0,15,2,1550,1732,UEFA Nations League,Rotterdam,Netherlands,FALSE
+2018-11-16,Wales,Denmark,82,77,73,80,73,77,1,2,18,10,1538,1584,UEFA Nations League,Cardiff,Wales,FALSE
+2018-11-16,Slovenia,Norway,72,75,78,75,73,73,1,1,62,48,1367,1420,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2018-11-16,Argentina,Mexico,87,78,80,75,79,75,2,0,12,16,1573,1549,Friendly,Córdoba,Argentina,FALSE
+2018-11-16,Brazil,Uruguay,84,85,80,78,80,82,1,0,3,6,1669,1617,Friendly,London,England,TRUE
+2018-11-17,Italy,Portugal,83,86,82,82,83,81,0,0,19,7,1533,1616,UEFA Nations League,Milan,Italy,FALSE
+2018-11-17,Turkey,Sweden,78,78,77,75,74,76,0,1,38,17,1449,1548,UEFA Nations League,Konya,Turkey,FALSE
+2018-11-18,Switzerland,Belgium,74,86,77,83,78,85,5,2,8,1,1598,1733,UEFA Nations League,Lucerne,Switzerland,FALSE
+2018-11-18,Northern Ireland,Austria,69,80,71,77,72,76,1,2,34,24,1472,1502,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2018-11-18,Hungary,Finland,73,70,72,69,74,66,2,0,55,56,1400,1392,UEFA Nations League,Budapest,Hungary,FALSE
+2018-11-19,Germany,Netherlands,84,81,85,80,83,81,2,2,14,15,1555,1550,UEFA Nations League,Gelsenkirchen,Germany,FALSE
+2018-11-19,Denmark,Republic of Ireland,77,73,80,72,77,75,0,0,10,33,1584,1473,UEFA Nations League,Aarhus,Denmark,FALSE
+2018-11-19,Bulgaria,Slovenia,69,72,63,78,67,73,1,1,45,62,1428,1367,UEFA Nations League,Sofia,Bulgaria,FALSE
+2018-11-20,Portugal,Poland,86,81,82,75,81,73,1,1,7,21,1616,1523,UEFA Nations League,Guimarães,Portugal,FALSE
+2018-11-20,Sweden,Russia,78,79,75,77,76,76,2,0,17,41,1548,1433,UEFA Nations League,Stockholm,Sweden,FALSE
+2018-11-20,Argentina,Mexico,87,78,80,75,79,75,2,0,12,16,1573,1549,Friendly,Mendoza,Argentina,FALSE
+2018-11-20,Brazil,Cameroon,84,80,80,72,80,73,1,0,3,51,1669,1408,Friendly,London,England,TRUE
+2018-11-20,France,Uruguay,82,85,86,78,82,82,1,0,2,6,1732,1617,Friendly,Paris,France,FALSE
+2018-11-20,Italy,United States,83,73,82,73,83,74,1,0,19,23,1533,1506,Friendly,Genk,Belgium,TRUE
+2018-11-20,South Africa,Paraguay,71,75,70,74,70,72,1,1,73,31,1321,1477,Friendly,Durban,South Africa,FALSE
+2019-01-08,Finland,Sweden,71,78,69,75,67,76,1,0,58,14,1378,1560,Friendly,Doha,Qatar,TRUE
+2019-01-11,Iceland,Sweden,73,78,74,75,71,76,2,2,37,14,1452,1560,Friendly,Doha,Qatar,TRUE
+2019-03-21,Austria,Poland,82,83,77,75,76,76,0,1,23,20,1509,1518,UEFA Euro qualification,Vienna,Austria,FALSE
+2019-03-21,Belgium,Russia,85,79,83,76,86,76,3,1,1,50,1727,1424,UEFA Euro qualification,Brussels,Belgium,FALSE
+2019-03-22,Argentina,Venezuela,86,76,80,72,80,70,1,3,11,32,1582,1478,Friendly,Madrid,Spain,TRUE
+2019-03-22,Mexico,Chile,79,78,77,78,77,75,3,1,17,13,1540,1565,Friendly,San Diego,United States,TRUE
+2019-03-22,Peru,Paraguay,73,74,73,74,70,72,1,0,20,33,1518,1476,Friendly,Harrison,United States,TRUE
+2019-03-22,England,Czech Republic,85,75,81,75,81,75,5,0,5,44,1631,1435,UEFA Euro qualification,London,England,FALSE
+2019-03-23,Sweden,Romania,76,73,75,73,75,69,2,1,14,25,1560,1501,UEFA Euro qualification,Stockholm,Sweden,FALSE
+2019-03-23,Spain,Norway,83,75,84,74,85,73,2,1,9,48,1591,1425,UEFA Euro qualification,Valencia,Spain,FALSE
+2019-03-23,Italy,Finland,84,66,82,69,83,69,2,0,18,59,1539,1375,UEFA Euro qualification,Udine,Italy,FALSE
+2019-03-24,Netherlands,Germany,82,84,80,87,82,82,2,3,14,16,1560,1558,UEFA Euro qualification,Amsterdam,Netherlands,FALSE
+2019-03-25,France,Iceland,82,74,85,74,83,71,4,0,2,38,1726,1451,UEFA Euro qualification,Paris,France,FALSE
+2019-03-26,Czech Republic,Brazil,75,84,75,80,75,80,1,3,44,3,1432,1676,Friendly,Prague,Czech Republic,FALSE
+2019-03-26,Paraguay,Mexico,74,79,74,77,72,77,2,4,33,17,1476,1540,Friendly,Santa Clara,United States,TRUE
+2019-03-26,United States,Chile,74,78,75,78,73,75,1,1,25,13,1501,1565,Friendly,Houston,United States,FALSE
+2019-03-26,Switzerland,Denmark,76,77,77,80,78,76,3,3,8,10,1599,1589,UEFA Euro qualification,Basel,Switzerland,FALSE
+2019-03-26,Norway,Sweden,75,76,74,75,73,75,3,3,48,14,1425,1560,UEFA Euro qualification,Oslo,Norway,FALSE
+2019-05-30,Turkey,Greece,78,77,77,75,74,76,2,1,39,43,1457,1433,Friendly,Antalya,Turkey,FALSE
+2019-06-01,Venezuela,Ecuador,77,73,71,73,69,70,1,1,29,59,1484,1378,Friendly,Miami Gardens,United States,TRUE
+2019-06-02,France,Bolivia,83,67,86,66,83,65,2,0,2,63,1734,1366,Friendly,Nantes,France,FALSE
+2019-06-05,Mexico,Venezuela,79,77,77,71,77,69,3,1,18,29,1549,1484,Friendly,Atlanta,United States,TRUE
+2019-06-05,Portugal,Switzerland,87,77,83,77,82,78,3,1,7,8,1607,1604,UEFA Nations League,Porto,Portugal,FALSE
+2019-06-06,England,Netherlands,85,83,81,81,81,83,1,3,4,16,1647,1554,UEFA Nations League,Guimarães,Portugal,TRUE
+2019-06-07,Czech Republic,Bulgaria,75,69,75,65,74,67,2,1,48,51,1424,1419,UEFA Euro qualification,Prague,Czech Republic,FALSE
+2019-06-07,Denmark,Republic of Ireland,77,72,80,74,76,75,1,1,10,29,1586,1484,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+2019-06-07,Norway,Romania,75,73,75,73,74,70,2,2,50,25,1420,1496,UEFA Euro qualification,Oslo,Norway,FALSE
+2019-06-07,Austria,Slovenia,82,70,77,75,76,72,1,0,34,63,1479,1366,UEFA Euro qualification,Klagenfurt,Austria,FALSE
+2019-06-08,Turkey,France,78,83,77,86,74,83,2,0,39,2,1457,1734,UEFA Euro qualification,Konya,Turkey,FALSE
+2019-06-08,Greece,Italy,77,83,75,82,76,83,0,3,43,17,1433,1550,UEFA Euro qualification,Athens,Greece,FALSE
+2019-06-09,Mexico,Ecuador,79,73,77,73,77,70,3,2,18,59,1549,1378,Friendly,Arlington,United States,TRUE
+2019-06-09,Peru,Colombia,76,79,72,80,71,77,0,3,21,12,1516,1573,Friendly,Lima,Peru,FALSE
+2019-06-09,United States,Venezuela,72,77,75,71,74,69,0,3,24,29,1506,1484,Friendly,Cincinnati,United States,FALSE
+2019-06-09,Switzerland,England,77,85,77,81,78,81,0,0,8,4,1604,1647,UEFA Nations League,Guimarães,Portugal,TRUE
+2019-06-09,Portugal,Netherlands,87,83,83,81,82,83,1,0,7,16,1607,1554,UEFA Nations League,Porto,Portugal,FALSE
+2019-06-10,Spain,Sweden,84,76,85,75,85,76,3,0,9,14,1601,1567,UEFA Euro qualification,Madrid,Spain,FALSE
+2019-06-11,Hungary,Wales,74,77,72,74,74,73,1,0,51,19,1419,1539,UEFA Euro qualification,Budapest,Hungary,FALSE
+2019-06-11,Iceland,Turkey,76,78,73,77,70,74,2,1,40,39,1450,1457,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+2019-06-11,Belgium,Scotland,85,72,83,75,86,74,3,0,1,44,1737,1430,UEFA Euro qualification,Brussels,Belgium,FALSE
+2019-06-14,Brazil,Bolivia,84,67,80,66,80,65,3,0,3,62,1681,1365,Copa América,São Paulo,Brazil,FALSE
+2019-06-15,Venezuela,Peru,77,76,71,72,69,71,0,0,33,21,1485,1516,Copa América,Porto Alegre,Brazil,TRUE
+2019-06-15,Argentina,Colombia,83,76,81,80,79,77,0,2,11,13,1582,1580,Copa América,Salvador,Brazil,TRUE
+2019-06-16,Uruguay,Ecuador,85,73,79,73,82,70,4,0,8,60,1615,1375,Copa América,Belo Horizonte,Brazil,TRUE
+2019-06-18,Bolivia,Peru,67,76,66,72,65,71,1,3,62,21,1365,1516,Copa América,Rio de Janeiro,Brazil,TRUE
+2019-06-18,Brazil,Venezuela,84,77,80,71,80,69,0,0,3,33,1681,1485,Copa América,Salvador,Brazil,FALSE
+2019-06-19,Argentina,Paraguay,83,74,81,74,79,72,1,1,11,36,1582,1468,Copa América,Belo Horizonte,Brazil,TRUE
+2019-06-21,Ecuador,Chile,73,77,73,78,70,76,1,2,60,16,1375,1561,Copa América,Salvador,Brazil,TRUE
+2019-06-22,Bolivia,Venezuela,67,77,66,71,65,69,1,3,62,33,1365,1485,Copa América,Belo Horizonte,Brazil,TRUE
+2019-06-22,Brazil,Peru,84,76,80,72,80,71,5,0,3,21,1681,1516,Copa América,São Paulo,Brazil,FALSE
+2019-06-23,Colombia,Paraguay,76,74,80,74,77,72,1,0,13,36,1580,1468,Copa América,Salvador,Brazil,TRUE
+2019-06-24,Ivory Coast,South Africa,76,71,75,70,76,70,1,0,62,72,1365,1335,African Cup of Nations,Cairo,Egypt,TRUE
+2019-06-24,Chile,Uruguay,77,85,78,79,76,82,0,1,16,8,1561,1615,Copa América,Rio de Janeiro,Brazil,TRUE
+2019-06-27,Brazil,Paraguay,84,74,80,74,80,72,0,0,3,36,1681,1468,Copa América,Porto Alegre,Brazil,FALSE
+2019-06-28,Colombia,Chile,79,77,80,78,76,76,0,0,13,16,1580,1561,Copa América,São Paulo,Brazil,TRUE
+2019-06-28,Venezuela,Argentina,77,83,71,81,69,79,0,2,33,11,1485,1582,Copa América,Rio de Janeiro,Brazil,TRUE
+2019-06-29,Uruguay,Peru,85,76,79,72,82,71,0,0,8,21,1615,1516,Copa América,Salvador,Brazil,TRUE
+2019-07-02,Brazil,Argentina,84,83,80,81,80,79,2,0,3,11,1681,1582,Copa América,Belo Horizonte,Brazil,FALSE
+2019-07-03,Chile,Peru,77,76,78,72,76,71,0,3,16,21,1561,1516,Copa América,Porto Alegre,Brazil,TRUE
+2019-07-06,Egypt,South Africa,69,71,75,70,70,70,0,1,58,72,1384,1335,African Cup of Nations,Cairo,Egypt,FALSE
+2019-07-06,Argentina,Chile,83,77,81,78,79,75,2,1,11,16,1582,1561,Copa América,São Paulo,Brazil,TRUE
+2019-07-07,Brazil,Peru,84,76,80,72,80,71,3,1,3,21,1681,1516,Copa América,Rio de Janeiro,Brazil,FALSE
+2019-07-07,United States,Mexico,73,75,75,79,74,76,0,1,30,18,1495,1557,Gold Cup,Chicago,United States,FALSE
+2019-09-05,Argentina,Chile,84,77,81,78,79,76,0,0,10,14,1610,1583,Friendly,Los Angeles,United States,TRUE
+2019-09-05,Peru,Ecuador,76,74,73,72,72,75,0,1,19,66,1552,1359,Friendly,Harrison,United States,TRUE
+2019-09-05,Republic of Ireland,Switzerland,73,78,73,78,75,79,1,1,32,11,1489,1605,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2019-09-05,Romania,Spain,71,84,72,86,71,85,1,2,28,9,1497,1617,UEFA Euro qualification,Bucharest,Romania,FALSE
+2019-09-05,Finland,Greece,77,75,68,74,68,77,1,0,57,54,1394,1403,UEFA Euro qualification,Tampere,Finland,FALSE
+2019-09-06,Brazil,Colombia,84,81,80,79,80,78,2,2,2,8,1726,1622,Friendly,Miami Gardens,United States,TRUE
+2019-09-06,United States,Mexico,74,80,76,78,74,76,0,3,22,12,1548,1604,Friendly,East Rutherford,United States,FALSE
+2019-09-06,Germany,Netherlands,86,82,84,81,81,84,2,4,15,16,1582,1569,UEFA Euro qualification,Hamburg,Germany,FALSE
+2019-09-06,Slovenia,Poland,68,84,72,75,72,75,2,0,63,20,1363,1550,UEFA Euro qualification,Ljubljana,Slovenia,FALSE
+2019-09-06,Scotland,Russia,69,78,76,77,74,76,1,2,48,46,1433,1436,UEFA Euro qualification,Glasgow,Scotland,FALSE
+2019-09-07,England,Bulgaria,86,61,82,66,82,66,4,0,4,60,1652,1388,UEFA Euro qualification,London,England,FALSE
+2019-09-08,Sweden,Norway,75,75,74,74,75,74,1,1,18,50,1558,1429,UEFA Euro qualification,Stockholm,Sweden,FALSE
+2019-09-08,Finland,Italy,77,83,68,83,68,83,1,2,57,16,1394,1569,UEFA Euro qualification,Tampere,Finland,FALSE
+2019-09-09,Northern Ireland,Germany,69,86,71,84,72,81,0,2,29,15,1496,1582,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2019-09-09,Poland,Austria,84,79,75,77,75,77,0,0,20,27,1550,1498,UEFA Euro qualification,Warsaw,Poland,FALSE
+2019-09-09,Scotland,Belgium,69,84,76,83,74,85,0,4,48,1,1433,1746,UEFA Euro qualification,Glasgow,Scotland,FALSE
+2019-09-10,Argentina,Mexico,84,80,81,78,79,76,4,0,10,12,1610,1604,Friendly,San Antonio,United States,TRUE
+2019-09-10,Brazil,Peru,84,76,80,73,80,72,0,1,2,19,1726,1552,Friendly,Los Angeles,United States,TRUE
+2019-09-10,Colombia,Venezuela,81,76,79,72,78,70,0,0,8,26,1622,1505,Friendly,Tampa,United States,TRUE
+2019-09-10,Ecuador,Bolivia,74,68,72,67,75,66,3,0,66,73,1359,1332,Friendly,Cuenca,Ecuador,FALSE
+2019-09-10,Republic of Ireland,Bulgaria,73,61,73,66,75,66,3,1,32,60,1489,1388,Friendly,Dublin,Republic of Ireland,FALSE
+2019-09-10,United States,Uruguay,74,80,76,79,74,79,1,1,22,5,1548,1637,Friendly,St. Louis,United States,FALSE
+2019-10-09,Germany,Argentina,85,84,83,81,83,79,2,2,16,10,1580,1614,Friendly,Dortmund,Germany,FALSE
+2019-10-10,Netherlands,Northern Ireland,82,69,81,70,84,72,3,1,13,33,1586,1488,UEFA Euro qualification,Rotterdam,Netherlands,FALSE
+2019-10-10,Russia,Scotland,78,67,77,76,76,74,4,0,42,52,1455,1415,UEFA Euro qualification,Moscow,Russia,FALSE
+2019-10-10,Venezuela,Bolivia,76,68,72,67,70,66,4,1,26,72,1506,1327,Friendly,Caracas,Venezuela,FALSE
+2019-10-11,Czech Republic,England,75,86,75,82,76,82,2,1,44,4,1441,1662,UEFA Euro qualification,Prague,Czech Republic,FALSE
+2019-10-11,Iceland,France,71,83,74,87,71,83,0,1,41,2,1461,1725,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+2019-10-11,Uruguay,Peru,80,76,79,73,79,72,1,0,6,19,1639,1551,Friendly,Montevideo,Uruguay,FALSE
+2019-10-12,Denmark,Switzerland,72,78,81,78,77,79,1,0,14,11,1584,1604,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+2019-10-12,Norway,Spain,75,83,77,86,74,84,1,1,47,7,1435,1631,UEFA Euro qualification,Oslo,Norway,FALSE
+2019-10-12,Italy,Greece,83,75,83,74,83,77,2,0,15,60,1583,1382,UEFA Euro qualification,Rome,Italy,FALSE
+2019-10-12,Colombia,Chile,82,77,79,78,78,76,0,0,9,17,1622,1576,Friendly,Alicante,Spain,TRUE
+2019-10-13,Slovenia,Austria,75,82,73,78,73,77,0,1,58,27,1390,1503,UEFA Euro qualification,Ljubljana,Slovenia,FALSE
+2019-10-13,Ecuador,Argentina,74,84,72,81,75,79,1,6,65,10,1370,1614,Friendly,Elche,Spain,TRUE
+2019-10-14,Bulgaria,England,69,86,68,82,68,82,0,6,62,4,1377,1662,UEFA Euro qualification,Sofia,Bulgaria,FALSE
+2019-10-14,France,Turkey,83,73,87,77,83,74,1,1,2,36,1725,1475,UEFA Euro qualification,Paris,France,FALSE
+2019-10-14,Czech Republic,Northern Ireland,75,69,75,70,76,72,2,3,44,33,1441,1488,Friendly,Prague,Czech Republic,FALSE
+2019-10-15,Switzerland,Republic of Ireland,78,73,78,73,79,75,2,0,11,28,1604,1496,UEFA Euro qualification,Geneva,Switzerland,FALSE
+2019-10-15,Sweden,Spain,76,83,75,86,74,84,1,1,18,7,1560,1631,UEFA Euro qualification,Stockholm,Sweden,FALSE
+2019-10-15,Romania,Norway,73,76,72,77,71,74,1,1,31,47,1490,1435,UEFA Euro qualification,Bucharest,Romania,FALSE
+2019-10-15,Peru,Uruguay,76,80,73,79,72,79,1,1,19,6,1551,1639,Friendly,Lima,Peru,FALSE
+2019-10-15,Canada,United States,73,74,73,75,66,74,2,0,75,21,1322,1545,CONCACAF Nations League,Toronto,Canada,FALSE
+2019-11-14,Turkey,Iceland,78,73,77,74,74,70,0,0,32,40,1490,1460,UEFA Euro qualification,Istanbul,Turkey,FALSE
+2019-11-14,Bulgaria,Paraguay,61,75,67,74,64,74,0,1,61,41,1371,1458,Friendly,Sofia,Bulgaria,FALSE
+2019-11-14,Republic of Ireland,New Zealand,72,72,73,67,75,67,3,1,36,121,1480,1157,Friendly,Dublin,Republic of Ireland,FALSE
+2019-11-15,Romania,Sweden,73,75,73,75,70,74,0,2,29,18,1495,1563,UEFA Euro qualification,Bucharest,Romania,FALSE
+2019-11-15,Brazil,Argentina,84,85,80,81,80,79,0,1,3,9,1715,1617,Superclásico de las Américas,Riyadh,Saudi Arabia,TRUE
+2019-11-15,United States,Canada,74,73,75,73,75,66,4,1,23,69,1530,1339,CONCACAF Nations League,Orlando,United States,FALSE
+2019-11-15,Colombia,Peru,82,76,79,73,78,72,1,0,10,19,1615,1548,Friendly,Miami Gardens,United States,TRUE
+2019-11-15,Hungary,Uruguay,73,80,72,79,73,79,1,2,50,5,1429,1642,Friendly,Budapest,Hungary,FALSE
+2019-11-16,Northern Ireland,Netherlands,69,82,70,82,73,84,0,0,34,12,1483,1602,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2019-11-16,Russia,Belgium,79,85,77,83,76,85,1,4,37,1,1474,1755,UEFA Euro qualification,Saint Petersburg,Russia,FALSE
+2019-11-17,Bulgaria,Czech Republic,61,75,67,75,64,75,1,0,61,43,1371,1454,UEFA Euro qualification,Sofia,Bulgaria,FALSE
+2019-11-18,Republic of Ireland,Denmark,72,77,73,81,75,77,1,1,36,14,1480,1599,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2019-11-18,Spain,Romania,83,72,86,73,86,69,5,0,8,29,1625,1495,UEFA Euro qualification,Madrid,Spain,FALSE
+2019-11-18,Greece,Finland,73,74,74,69,76,70,2,1,58,55,1388,1395,UEFA Euro qualification,Athens,Greece,FALSE
+2019-11-18,Argentina,Uruguay,85,80,81,79,79,79,2,2,9,5,1617,1642,Friendly,Tel Aviv,Israel,TRUE
+2019-11-19,Germany,Northern Ireland,85,69,83,69,80,73,6,1,16,34,1586,1483,UEFA Euro qualification,Frankfurt,Germany,FALSE
+2019-11-19,Wales,Hungary,73,73,76,72,71,72,2,0,24,50,1524,1429,UEFA Euro qualification,Cardiff,Wales,FALSE
+2019-11-19,Poland,Slovenia,84,75,74,73,75,70,3,2,21,65,1544,1367,UEFA Euro qualification,Warsaw,Poland,FALSE
+2019-11-19,Ecuador,Colombia,74,82,72,79,75,78,0,1,63,10,1368,1615,Friendly,Harrison,United States,TRUE
+2020-09-03,Germany,Spain,85,83,85,86,80,85,1,1,15,8,1602,1636,UEFA Nations League,Stuttgart,Germany,FALSE
+2020-09-03,Turkey,Hungary,78,74,76,72,75,72,0,1,29,52,1494,1416,UEFA Nations League,Sivas,Turkey,FALSE
+2020-09-03,Bulgaria,Republic of Ireland,65,73,65,73,64,77,1,1,59,34,1381,1486,UEFA Nations League,Sofia,Bulgaria,FALSE
+2020-09-03,Finland,Wales,77,70,69,76,68,72,0,1,58,23,1386,1540,UEFA Nations League,Helsinki,Finland,FALSE
+2020-09-03,Slovenia,Greece,74,72,73,73,71,72,0,0,64,54,1365,1409,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2020-09-04,Netherlands,Poland,82,84,83,74,83,76,1,0,14,19,1604,1559,UEFA Nations League,Amsterdam,Netherlands,FALSE
+2020-09-04,Norway,Austria,78,83,76,78,74,77,1,2,44,26,1451,1507,UEFA Nations League,Oslo,Norway,FALSE
+2020-09-04,Romania,Northern Ireland,72,68,73,70,69,74,1,1,37,36,1475,1476,UEFA Nations League,Bucharest,Romania,FALSE
+2020-09-05,Iceland,England,72,87,74,81,70,81,0,1,39,4,1465,1661,UEFA Nations League,Reykjavík,Iceland,FALSE
+2020-09-05,Denmark,Belgium,78,88,81,83,77,82,0,2,16,1,1598,1765,UEFA Nations League,Copenhagen,Denmark,FALSE
+2020-09-05,Sweden,France,77,84,76,86,74,84,0,1,17,2,1579,1733,UEFA Nations League,Stockholm,Sweden,FALSE
+2020-09-06,Switzerland,Germany,76,85,79,85,78,80,1,1,12,15,1608,1602,UEFA Nations League,Basel,Switzerland,FALSE
+2020-09-06,Hungary,Russia,74,79,72,77,72,76,2,3,52,38,1416,1470,UEFA Nations League,Budapest,Hungary,FALSE
+2020-09-06,Wales,Bulgaria,70,65,76,65,72,64,1,0,23,59,1540,1381,UEFA Nations League,Cardiff,Wales,FALSE
+2020-09-06,Republic of Ireland,Finland,73,77,73,69,77,68,0,1,34,58,1486,1386,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2020-09-07,Netherlands,Italy,82,83,83,83,83,82,0,1,14,13,1604,1607,UEFA Nations League,Amsterdam,Netherlands,FALSE
+2020-09-07,Northern Ireland,Norway,68,78,70,76,74,74,1,5,36,44,1486,1451,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2020-09-07,Austria,Romania,83,72,78,73,77,69,2,3,26,37,1507,1475,UEFA Nations League,Klagenfurt,Austria,FALSE
+2020-09-07,Czech Republic,Scotland,76,68,76,76,75,74,1,2,45,50,1446,1422,UEFA Nations League,Olomouc,Czech Republic,FALSE
+2020-09-08,Belgium,Iceland,88,72,83,74,82,70,5,1,1,39,1765,1465,UEFA Nations League,Brussels,Belgium,FALSE
+2020-09-08,Denmark,England,78,87,81,81,77,81,0,0,16,4,1598,1661,UEFA Nations League,Copenhagen,Denmark,FALSE
+2020-09-08,Sweden,Portugal,77,87,76,83,74,82,0,2,17,7,1579,1639,UEFA Nations League,Stockholm,Sweden,FALSE
+2020-10-07,Austria,Greece,82,70,79,73,76,73,2,1,27,53,1505,1413,Friendly,Klagenfurt,Austria,FALSE
+2020-10-07,Germany,Turkey,85,78,83,76,82,75,3,3,14,32,1602,1485,Friendly,Cologne,Germany,FALSE
+2020-10-07,Netherlands,Mexico,82,82,83,77,83,76,0,1,13,11,1603,1621,Friendly,Amsterdam,Netherlands,FALSE
+2020-10-07,Poland,Finland,79,71,74,68,74,68,5,1,19,56,1558,1390,Friendly,Gdańsk,Poland,FALSE
+2020-10-07,Portugal,Spain,86,83,83,84,82,84,0,0,5,7,1653,1642,Friendly,Lisbon,Portugal,FALSE
+2020-10-08,Belgium,Ivory Coast,84,78,82,75,82,74,1,1,1,60,1773,1378,Friendly,Brussels,Belgium,FALSE
+2020-10-08,England,Wales,84,69,82,76,82,73,3,0,4,21,1664,1550,Friendly,London,England,FALSE
+2020-10-08,Russia,Sweden,77,76,77,75,76,75,1,2,32,18,1485,1567,Friendly,Moscow,Russia,FALSE
+2020-10-08,Paraguay,Peru,73,77,75,74,72,72,2,2,40,22,1461,1544,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2020-10-08,Uruguay,Chile,79,75,79,78,78,71,2,1,6,17,1645,1579,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2020-10-08,Argentina,Ecuador,87,74,82,72,79,75,1,0,9,64,1623,1368,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
+2020-10-08,Iceland,Romania,70,71,73,73,70,71,2,1,41,34,1457,1483,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+2020-10-08,Bulgaria,Hungary,67,71,68,70,67,70,1,3,60,52,1378,1418,UEFA Euro qualification,Sofia,Bulgaria,FALSE
+2020-10-09,Colombia,Venezuela,80,74,79,73,78,70,3,0,10,25,1622,1517,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2020-10-09,Brazil,Bolivia,81,67,79,66,80,65,5,0,3,75,1712,1324,FIFA World Cup qualification,São Paulo,Brazil,FALSE
+2020-10-10,Spain,Switzerland,80,75,84,80,83,78,1,0,7,15,1642,1600,UEFA Nations League,Madrid,Spain,FALSE
+2020-10-11,Poland,Italy,83,83,74,82,72,82,0,0,19,12,1558,1612,UEFA Nations League,Gdańsk,Poland,FALSE
+2020-10-11,England,Belgium,84,84,82,82,82,82,2,1,4,1,1664,1773,UEFA Nations League,London,England,FALSE
+2020-10-11,Iceland,Denmark,70,77,73,80,70,77,0,3,41,16,1457,1593,UEFA Nations League,Reykjavík,Iceland,FALSE
+2020-10-11,France,Portugal,83,86,86,83,83,82,0,0,2,5,1744,1653,UEFA Nations League,Paris,France,FALSE
+2020-10-11,Norway,Romania,79,71,76,73,74,71,4,0,44,34,1452,1483,UEFA Nations League,Oslo,Norway,FALSE
+2020-10-11,Northern Ireland,Austria,65,82,69,79,74,76,0,1,38,27,1468,1505,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2020-10-11,Russia,Turkey,77,78,77,76,76,75,1,1,32,32,1485,1485,UEFA Nations League,Moscow,Russia,FALSE
+2020-10-11,Republic of Ireland,Wales,71,69,74,76,78,73,0,0,37,21,1475,1550,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2020-10-11,Finland,Bulgaria,71,67,69,68,68,67,2,0,56,60,1390,1378,UEFA Nations League,Helsinki,Finland,FALSE
+2020-10-13,Germany,Switzerland,85,75,83,80,82,78,3,3,14,15,1602,1600,UEFA Nations League,Cologne,Germany,FALSE
+2020-10-13,Bolivia,Argentina,67,87,66,82,65,79,1,2,75,9,1324,1623,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2020-10-13,Ecuador,Uruguay,74,79,72,79,75,78,4,2,64,6,1368,1645,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2020-10-13,Venezuela,Paraguay,74,73,73,75,70,72,0,1,25,40,1517,1461,FIFA World Cup qualification,Mérida,Venezuela,FALSE
+2020-10-13,Peru,Brazil,77,81,74,79,72,80,2,4,22,3,1544,1712,FIFA World Cup qualification,Lima,Peru,FALSE
+2020-10-13,Chile,Colombia,75,80,78,79,71,78,2,2,17,10,1579,1622,FIFA World Cup qualification,Santiago,Chile,FALSE
+2020-10-14,Italy,Netherlands,83,82,82,83,82,83,1,1,12,13,1612,1603,UEFA Nations League,Bergamo,Italy,FALSE
+2020-10-14,Iceland,Belgium,70,84,73,82,70,82,1,2,41,1,1457,1773,UEFA Nations League,Reykjavík,Iceland,FALSE
+2020-10-14,England,Denmark,84,77,82,80,82,77,0,1,4,16,1664,1593,UEFA Nations League,London,England,FALSE
+2020-10-14,Portugal,Sweden,86,76,83,75,82,75,3,0,5,18,1653,1567,UEFA Nations League,Lisbon,Portugal,FALSE
+2020-10-14,Norway,Northern Ireland,79,65,76,68,74,74,1,0,44,38,1452,1468,UEFA Nations League,Oslo,Norway,FALSE
+2020-10-14,Romania,Austria,71,82,73,79,71,76,0,1,34,27,1483,1505,UEFA Nations League,Ploiești,Romania,FALSE
+2020-10-14,Scotland,Czech Republic,68,76,76,76,74,76,1,0,49,45,1428,1446,UEFA Nations League,Glasgow,Scotland,FALSE
+2020-10-14,Russia,Hungary,77,71,77,70,76,70,0,0,32,52,1485,1418,UEFA Nations League,Moscow,Russia,FALSE
+2020-10-14,Finland,Republic of Ireland,71,71,69,74,68,78,1,0,56,37,1390,1475,UEFA Nations League,Helsinki,Finland,FALSE
+2020-10-14,Bulgaria,Wales,67,69,68,76,67,73,0,1,60,21,1378,1550,UEFA Nations League,Sofia,Bulgaria,FALSE
+2020-11-11,Belgium,Switzerland,86,75,82,80,82,78,2,1,1,16,1765,1589,Friendly,Leuven,Belgium,FALSE
+2020-11-11,Denmark,Sweden,77,77,80,75,77,75,2,0,13,19,1610,1558,Friendly,Brondbyvester,Denmark,FALSE
+2020-11-11,France,Finland,84,74,85,68,83,67,0,2,2,55,1752,1402,Friendly,Paris,France,FALSE
+2020-11-11,Germany,Czech Republic,85,78,84,76,82,76,1,0,14,45,1607,1446,Friendly,Leipzig,Germany,FALSE
+2020-11-11,Netherlands,Spain,82,80,82,84,84,83,1,1,15,6,1596,1639,Friendly,Amsterdam,Netherlands,FALSE
+2020-11-12,Hungary,Iceland,71,70,69,73,71,69,2,1,47,39,1439,1461,UEFA Euro qualification,Budapest,Hungary,FALSE
+2020-11-12,England,Republic of Ireland,86,73,82,72,82,78,3,0,4,36,1669,1467,Friendly,London,England,FALSE
+2020-11-12,Wales,United States,70,76,75,73,72,74,0,0,20,22,1550,1542,Friendly,Cardiff,Wales,FALSE
+2020-11-12,Bolivia,Ecuador,65,74,67,72,65,75,2,3,79,60,1314,1380,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2020-11-12,Argentina,Paraguay,87,75,82,75,79,72,1,1,8,35,1636,1476,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
+2020-11-13,Colombia,Uruguay,80,79,78,79,78,78,0,3,10,7,1631,1637,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2020-11-13,Chile,Peru,77,77,77,74,72,72,2,0,17,24,1570,1533,FIFA World Cup qualification,Santiago,Chile,FALSE
+2020-11-13,Brazil,Venezuela,81,75,79,73,80,71,1,0,3,28,1725,1493,FIFA World Cup qualification,São Paulo,Brazil,FALSE
+2020-11-14,Portugal,France,87,84,83,85,82,83,0,1,5,2,1661,1752,UEFA Nations League,Lisbon,Portugal,FALSE
+2020-11-14,Switzerland,Spain,75,80,80,84,78,84,1,1,16,6,1589,1639,UEFA Nations League,Basel,Switzerland,FALSE
+2020-11-15,Italy,Poland,83,83,82,73,83,73,2,0,12,18,1612,1568,UEFA Nations League,Reggio Emilia,Italy,FALSE
+2020-11-15,Belgium,England,86,86,82,82,82,82,2,0,1,4,1765,1669,UEFA Nations League,Leuven,Belgium,FALSE
+2020-11-15,Denmark,Iceland,77,70,80,73,77,69,2,1,13,39,1610,1461,UEFA Nations League,Copenhagen,Denmark,FALSE
+2020-11-15,Austria,Northern Ireland,82,65,78,69,78,74,2,1,25,41,1523,1458,UEFA Nations League,Vienna,Austria,FALSE
+2020-11-15,Romania,Norway,72,79,73,77,70,73,3,0,44,43,1455,1456,UEFA Nations League,Bucharest,Romania,FALSE
+2020-11-15,Turkey,Russia,76,76,76,76,76,75,3,2,33,34,1486,1480,UEFA Nations League,Istanbul,Turkey,FALSE
+2020-11-15,Wales,Republic of Ireland,70,73,75,72,72,78,1,0,20,36,1550,1467,UEFA Nations League,Cardiff,Wales,FALSE
+2020-11-15,Bulgaria,Finland,70,74,67,68,68,67,1,2,66,55,1354,1402,UEFA Nations League,Sofia,Bulgaria,FALSE
+2020-11-17,France,Sweden,84,77,85,75,83,75,4,2,2,19,1752,1558,UEFA Nations League,Paris,France,FALSE
+2020-11-17,Spain,Germany,80,85,84,84,84,82,6,0,6,14,1639,1607,UEFA Nations League,Seville,Spain,FALSE
+2020-11-17,Ecuador,Colombia,74,80,72,78,75,78,6,1,60,10,1380,1631,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2020-11-17,Venezuela,Chile,75,77,72,78,71,71,2,1,28,17,1493,1570,FIFA World Cup qualification,Caracas,Venezuela,FALSE
+2020-11-17,Peru,Argentina,77,87,74,82,72,79,0,2,24,8,1533,1636,FIFA World Cup qualification,Lima,Peru,FALSE
+2020-11-17,Paraguay,Bolivia,76,60,74,66,74,65,2,2,35,79,1476,1314,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2020-11-17,Uruguay,Brazil,79,81,79,79,78,80,0,2,7,3,1637,1725,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2020-11-18,Poland,Netherlands,83,84,73,82,73,83,1,2,18,15,1568,1596,UEFA Nations League,Chorzów,Poland,FALSE
+2020-11-18,England,Iceland,86,70,82,73,82,69,4,0,4,39,1669,1461,UEFA Nations League,London,England,FALSE
+2020-11-18,Belgium,Denmark,86,77,82,80,82,77,4,2,1,13,1765,1610,UEFA Nations League,Leuven,Belgium,FALSE
+2020-11-18,Northern Ireland,Romania,65,72,69,73,74,70,1,1,41,44,1458,1455,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2020-11-18,Austria,Norway,82,79,78,77,78,73,1,1,25,43,1523,1456,UEFA Nations League,Vienna,Austria,FALSE
+2020-11-18,Hungary,Turkey,71,76,69,76,71,76,2,0,47,33,1439,1486,UEFA Nations League,Budapest,Hungary,FALSE
+2020-11-18,Republic of Ireland,Bulgaria,73,70,72,67,78,68,0,0,36,66,1467,1354,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2020-11-18,Wales,Finland,70,74,75,68,72,67,3,1,20,55,1550,1402,UEFA Nations League,Cardiff,Wales,FALSE
+2021-03-24,Belgium,Wales,86,70,83,75,80,74,3,1,1,18,1780,1562,FIFA World Cup qualification,Leuven,Belgium,FALSE
+2021-03-24,Turkey,Netherlands,76,80,77,82,76,83,4,2,32,14,1487,1609,FIFA World Cup qualification,Istanbul,Turkey,FALSE
+2021-03-25,Spain,Greece,83,72,84,74,83,72,1,1,6,53,1645,1413,FIFA World Cup qualification,Granada,Spain,FALSE
+2021-03-25,Bulgaria,Switzerland,69,75,67,79,67,77,1,3,68,16,1350,1593,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
+2021-03-25,Italy,Northern Ireland,83,65,82,70,82,71,2,0,10,45,1625,1440,FIFA World Cup qualification,Parma,Italy,FALSE
+2021-03-25,Scotland,Austria,71,82,76,78,76,78,2,2,48,23,1436,1531,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+2021-03-25,Hungary,Poland,70,80,72,75,72,73,3,3,40,19,1460,1559,FIFA World Cup qualification,Budapest,Hungary,FALSE
+2021-03-25,Germany,Iceland,84,71,84,72,82,69,3,0,13,46,1610,1438,FIFA World Cup qualification,Duisburg,Germany,FALSE
+2021-03-26,Chile,Bolivia,77,65,76,66,75,65,2,1,17,79,1567,1307,Friendly,Rancagua,Chile,FALSE
+2021-03-27,Wales,Mexico,70,81,75,77,74,76,1,0,18,9,1562,1632,Friendly,Cardiff,Wales,FALSE
+2021-03-27,Czech Republic,Belgium,77,85,76,81,77,79,1,1,42,1,1456,1780,FIFA World Cup qualification,Prague,Czech Republic,FALSE
+2021-03-27,Norway,Turkey,79,76,76,77,74,76,0,3,44,32,1450,1487,FIFA World Cup qualification,Málaga,Spain,TRUE
+2021-03-27,Russia,Slovenia,79,76,75,72,76,71,2,1,39,62,1461,1379,FIFA World Cup qualification,Sochi,Russia,FALSE
+2021-03-28,Northern Ireland,United States,65,75,70,74,71,74,1,2,45,22,1440,1548,Friendly,Belfast,Northern Ireland,FALSE
+2021-03-28,Bulgaria,Italy,69,83,67,82,67,82,0,2,68,10,1350,1625,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
+2021-03-28,Romania,Germany,73,84,73,84,72,82,0,1,37,13,1466,1610,FIFA World Cup qualification,Bucharest,Romania,FALSE
+2021-03-29,Ecuador,Bolivia,74,65,72,66,75,65,2,1,57,79,1409,1307,Friendly,Guayaquil,Ecuador,FALSE
+2021-03-30,Wales,Czech Republic,70,77,75,76,74,77,1,0,18,42,1562,1456,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2021-03-31,Switzerland,Finland,75,70,79,69,77,66,3,2,16,55,1593,1411,Friendly,St. Gallen,Switzerland,FALSE
+2021-03-31,Northern Ireland,Bulgaria,65,69,70,67,71,67,0,0,45,68,1440,1350,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+2021-03-31,Austria,Denmark,82,76,78,79,78,78,0,4,23,12,1531,1614,FIFA World Cup qualification,Vienna,Austria,FALSE
+2021-03-31,England,Poland,85,80,83,75,82,73,2,1,4,19,1670,1559,FIFA World Cup qualification,London,England,FALSE
+2021-05-29,Mexico,Iceland,81,70,77,71,76,69,2,1,11,52,1629.56,1415.99,Friendly,Arlington,United States,TRUE
+2021-05-29,Sweden,Finland,77,72,74,70,75,66,2,0,18,54,1569.81,1410.82,Friendly,Stockholm,Sweden,FALSE
+2021-05-30,Switzerland,United States,75,75,78,74,77,75,2,1,13,20,1606.21,1555.42,Friendly,St. Gallen,Switzerland,FALSE
+2021-06-01,Poland,Russia,81,77,75,76,74,75,1,1,21,38,1549.87,1462.65,Friendly,Wrocław,Poland,FALSE
+2021-06-02,England,Austria,86,73,83,78,81,76,1,0,4,23,1686.78,1523.42,Friendly,London,England,FALSE
+2021-06-02,France,Wales,84,77,85,74,82,72,3,0,2,17,1757.3,1570.36,Friendly,Nice,France,FALSE
+2021-06-02,Germany,Denmark,84,76,85,78,81,77,1,1,12,10,1609.12,1631.55,Friendly,Innsbruck,Austria,TRUE
+2021-06-02,Netherlands,Scotland,81,73,81,74,84,72,2,2,16,44,1598.04,1441.43,Friendly,São João da Venda,Portugal,TRUE
+2021-06-03,Belgium,Greece,85,72,83,75,80,73,1,1,1,51,1783.38,1418.7,Friendly,Brussels,Belgium,FALSE
+2021-06-03,Bolivia,Venezuela,65,74,66,73,65,71,3,1,81,30,1300.11,1500.71,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2021-06-03,Uruguay,Paraguay,79,75,79,74,78,72,0,0,9,35,1639.08,1476.02,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2021-06-03,Argentina,Chile,85,77,83,76,79,75,1,1,8,19,1641.95,1569.52,FIFA World Cup qualification,Santiago del Estero,Argentina,FALSE
+2021-06-03,Peru,Colombia,75,81,74,80,73,77,0,3,27,15,1511.88,1600.66,FIFA World Cup qualification,Lima,Peru,FALSE
+2021-06-04,Italy,Czech Republic,83,78,82,76,82,76,4,0,7,40,1642.06,1458.81,Friendly,Bologna,Italy,FALSE
+2021-06-04,Spain,Portugal,82,85,83,82,83,83,0,0,6,5,1648.13,1666.12,Friendly,Madrid,Spain,FALSE
+2021-06-04,Brazil,Ecuador,81,74,79,72,80,75,2,0,3,53,1742.65,1413.01,FIFA World Cup qualification,Porto Alegre,Brazil,FALSE
+2021-06-06,England,Romania,86,73,83,75,81,70,1,0,4,43,1686.78,1449.23,Friendly,London,England,FALSE
+2021-06-06,Norway,Greece,79,72,76,75,74,73,1,2,42,51,1452.34,1418.7,Friendly,Málaga,Spain,TRUE
+2021-06-06,United States,Mexico,75,81,74,77,75,76,3,2,20,11,1555.42,1629.56,CONCACAF Nations League,Denver,United States,FALSE
+2021-06-08,France,Bulgaria,84,67,85,68,82,66,3,0,2,71,1757.3,1339.03,Friendly,Paris,France,FALSE
+2021-06-08,Hungary,Republic of Ireland,72,71,71,72,74,75,0,0,37,47,1468.75,1427.22,Friendly,Budapest,Hungary,FALSE
+2021-06-08,Poland,Iceland,81,70,75,71,74,69,2,2,21,52,1549.87,1415.99,Friendly,Poznań,Poland,FALSE
+2021-06-08,Ecuador,Peru,74,75,72,74,75,73,1,2,53,27,1413.01,1511.88,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2021-06-08,Colombia,Argentina,81,85,80,83,77,79,2,2,15,8,1600.66,1641.95,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2021-06-08,Venezuela,Uruguay,74,79,73,79,71,78,0,0,30,9,1500.71,1639.08,FIFA World Cup qualification,Caracas,Venezuela,FALSE
+2021-06-08,Paraguay,Brazil,75,81,74,79,72,80,0,2,35,3,1476.02,1742.65,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2021-06-08,Chile,Bolivia,77,65,76,66,75,65,1,1,19,81,1569.52,1300.11,FIFA World Cup qualification,Santiago,Chile,FALSE
+2021-06-11,Italy,Turkey,83,79,82,76,82,75,3,0,7,29,1642.06,1505.05,UEFA Euro,Rome,Italy,FALSE
+2021-06-12,Wales,Switzerland,77,75,74,78,72,77,1,1,17,13,1570.36,1606.21,UEFA Euro,Cardiff,Wales,FALSE
+2021-06-12,Denmark,Finland,76,72,79,70,79,66,0,1,10,54,1631.55,1410.82,UEFA Euro,Copenhagen,Denmark,FALSE
+2021-06-12,Russia,Belgium,77,85,76,83,75,80,0,3,38,1,1462.65,1783.38,UEFA Euro,Saint Petersburg,Russia,FALSE
+2021-06-13,Brazil,Venezuela,81,76,80,73,80,70,3,0,3,30,1742.65,1500.71,Copa América,Brasília,Brazil,FALSE
+2021-06-13,Colombia,Ecuador,80,74,77,72,76,75,1,0,15,53,1600.66,1413.01,Copa América,Cuiabá,Brazil,TRUE
+2021-06-14,Scotland,Czech Republic,72,78,76,76,76,76,0,2,44,40,1441.43,1458.81,UEFA Euro,Glasgow,Scotland,FALSE
+2021-06-14,Spain,Sweden,82,77,83,75,82,74,0,0,6,18,1648.13,1569.81,UEFA Euro,Seville,Spain,FALSE
+2021-06-14,Argentina,Chile,86,74,82,76,80,74,1,1,8,19,1641.95,1569.52,Copa América,Rio de Janeiro,Brazil,TRUE
+2021-06-14,Paraguay,Bolivia,72,65,74,65,72,66,3,1,35,81,1476.02,1300.11,Copa América,Goiânia,Brazil,TRUE
+2021-06-15,Hungary,Portugal,72,85,71,82,74,83,0,3,37,5,1468.75,1666.12,UEFA Euro,Budapest,Hungary,FALSE
+2021-06-15,Germany,France,84,87,85,85,81,82,0,1,12,2,1609.12,1757.3,UEFA Euro,Munich,Germany,FALSE
+2021-06-16,Turkey,Wales,79,77,76,74,75,72,0,2,29,17,1505.05,1570.36,UEFA Euro,Baku,Azerbaijan,TRUE
+2021-06-16,Italy,Switzerland,83,75,82,78,82,77,3,0,7,13,1642.06,1606.21,UEFA Euro,Rome,Italy,FALSE
+2021-06-16,Russia,Finland,77,72,76,70,75,66,1,0,38,54,1462.65,1410.82,UEFA Euro,Saint Petersburg,Russia,FALSE
+2021-06-17,Denmark,Belgium,76,85,80,83,78,80,1,2,10,1,1631.55,1783.38,UEFA Euro,Copenhagen,Denmark,FALSE
+2021-06-17,Netherlands,Austria,81,78,83,78,83,77,2,0,16,23,1598.04,1523.42,UEFA Euro,Amsterdam,Netherlands,FALSE
+2021-06-17,Colombia,Venezuela,79,75,78,70,76,67,0,0,15,30,1600.66,1500.71,Copa América,Goiânia,Brazil,TRUE
+2021-06-17,Brazil,Peru,81,71,80,73,80,70,4,0,3,27,1742.65,1511.88,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-06-18,England,Scotland,85,72,83,76,81,76,0,0,4,44,1686.78,1441.43,UEFA Euro,London,England,FALSE
+2021-06-18,Chile,Bolivia,74,65,76,65,74,66,1,0,19,81,1569.52,1300.11,Copa América,Cuiabá,Brazil,TRUE
+2021-06-18,Argentina,Uruguay,86,79,82,79,80,78,1,0,8,9,1641.95,1639.08,Copa América,Brasília,Brazil,TRUE
+2021-06-19,Spain,Poland,82,82,83,74,82,74,1,1,6,21,1648.13,1549.87,UEFA Euro,Seville,Spain,FALSE
+2021-06-19,Hungary,France,72,87,70,85,73,82,1,1,37,2,1468.75,1757.3,UEFA Euro,Budapest,Hungary,FALSE
+2021-06-19,Germany,Portugal,84,85,85,82,81,82,4,2,12,5,1609.12,1666.12,UEFA Euro,Munich,Germany,FALSE
+2021-06-20,Italy,Wales,83,77,82,74,82,72,1,0,7,17,1642.06,1570.36,UEFA Euro,Rome,Italy,FALSE
+2021-06-20,Switzerland,Turkey,75,79,78,76,77,76,3,1,13,29,1606.21,1505.05,UEFA Euro,Baku,Azerbaijan,TRUE
+2021-06-20,Venezuela,Ecuador,75,74,70,72,73,75,2,2,30,53,1500.71,1413.01,Copa América,Rio de Janeiro,Brazil,TRUE
+2021-06-20,Colombia,Peru,79,71,78,73,76,70,1,2,15,27,1600.66,1511.88,Copa América,Goiânia,Brazil,TRUE
+2021-06-21,Denmark,Russia,76,77,80,76,78,75,4,1,10,38,1631.55,1462.65,UEFA Euro,Copenhagen,Denmark,FALSE
+2021-06-21,Finland,Belgium,72,85,70,83,67,80,0,2,54,1,1410.82,1783.38,UEFA Euro,Saint Petersburg,Russia,TRUE
+2021-06-21,Uruguay,Chile,79,74,79,76,78,74,1,1,9,19,1639.08,1569.52,Copa América,Cuiabá,Brazil,TRUE
+2021-06-21,Argentina,Paraguay,86,72,82,74,80,72,1,0,8,35,1641.95,1476.02,Copa América,Brasília,Brazil,TRUE
+2021-06-22,England,Czech Republic,85,78,83,76,81,76,1,0,4,40,1686.78,1458.81,UEFA Euro,London,England,FALSE
+2021-06-23,Sweden,Poland,77,82,75,74,74,74,3,2,18,21,1569.81,1549.87,UEFA Euro,Saint Petersburg,Russia,TRUE
+2021-06-23,Germany,Hungary,84,72,85,69,81,72,2,2,12,37,1609.12,1468.75,UEFA Euro,Munich,Germany,FALSE
+2021-06-23,Portugal,France,85,87,82,85,82,82,2,2,5,2,1666.12,1757.3,UEFA Euro,Budapest,Hungary,TRUE
+2021-06-23,Ecuador,Peru,74,71,72,73,75,70,2,2,53,27,1413.01,1511.88,Copa América,Goiânia,Brazil,TRUE
+2021-06-23,Brazil,Colombia,81,79,80,78,80,76,2,1,3,15,1742.65,1600.66,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-06-24,Bolivia,Uruguay,65,79,65,79,66,78,0,2,81,9,1300.11,1639.08,Copa América,Cuiabá,Brazil,TRUE
+2021-06-24,Chile,Paraguay,74,72,76,74,76,72,0,2,19,35,1569.52,1476.02,Copa América,Brasília,Brazil,TRUE
+2021-06-26,Italy,Austria,83,78,82,78,82,77,2,1,7,23,1642.06,1523.42,UEFA Euro,London,England,TRUE
+2021-06-26,Wales,Denmark,77,76,74,80,72,78,0,4,17,10,1570.36,1631.55,UEFA Euro,Amsterdam,Netherlands,TRUE
+2021-06-27,Netherlands,Czech Republic,81,78,83,76,83,76,0,2,16,40,1598.04,1458.81,UEFA Euro,Budapest,Hungary,TRUE
+2021-06-27,Belgium,Portugal,85,85,83,82,80,82,1,0,1,5,1783.38,1666.12,UEFA Euro,Seville,Spain,TRUE
+2021-06-27,Brazil,Ecuador,81,74,80,72,80,75,1,1,3,53,1742.65,1413.01,Copa América,Goiânia,Brazil,FALSE
+2021-06-27,Venezuela,Peru,75,71,70,73,67,70,0,1,30,27,1500.71,1511.88,Copa América,Brasília,Brazil,TRUE
+2021-06-28,France,Switzerland,87,75,85,78,82,77,3,3,2,13,1757.3,1606.21,UEFA Euro,Bucharest,Romania,TRUE
+2021-06-28,Argentina,Bolivia,86,65,82,65,80,66,4,1,8,81,1641.95,1300.11,Copa América,Cuiabá,Brazil,TRUE
+2021-06-28,Uruguay,Paraguay,79,72,79,74,78,72,1,0,9,35,1639.08,1476.02,Copa América,Rio de Janeiro,Brazil,TRUE
+2021-06-29,England,Germany,85,84,83,85,81,81,2,0,4,12,1686.78,1609.12,UEFA Euro,London,England,FALSE
+2021-07-02,Switzerland,Spain,75,82,78,83,77,82,1,1,13,6,1606.21,1648.13,UEFA Euro,Saint Petersburg,Russia,TRUE
+2021-07-02,Belgium,Italy,85,83,83,82,80,82,1,2,1,7,1783.38,1642.06,UEFA Euro,Munich,Germany,TRUE
+2021-07-02,Peru,Paraguay,71,72,73,74,70,72,3,3,27,35,1511.88,1476.02,Copa América,Goiânia,Brazil,TRUE
+2021-07-02,Brazil,Chile,81,74,80,76,80,74,1,0,3,19,1742.65,1569.52,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-07-03,Czech Republic,Denmark,78,76,76,80,76,78,1,2,40,10,1458.81,1631.55,UEFA Euro,Baku,Azerbaijan,TRUE
+2021-07-03,Uruguay,Colombia,79,79,79,78,78,76,0,0,9,15,1639.08,1600.66,Copa América,Brasília,Brazil,TRUE
+2021-07-03,Argentina,Ecuador,86,74,82,72,80,75,3,0,8,53,1641.95,1413.01,Copa América,Goiânia,Brazil,TRUE
+2021-07-05,Brazil,Peru,81,71,80,73,80,71,1,0,3,27,1742.65,1511.88,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-07-06,Argentina,Colombia,86,81,82,79,80,77,1,1,8,15,1641.95,1600.66,Copa América,Brasília,Brazil,TRUE
+2021-07-06,Italy,Spain,83,82,82,83,82,82,1,1,7,6,1642.06,1648.13,UEFA Euro,London,England,TRUE
+2021-07-07,England,Denmark,85,76,83,82,81,78,2,1,4,10,1686.78,1631.55,UEFA Euro,London,England,FALSE
+2021-07-09,Peru,Colombia,71,81,73,79,71,77,2,3,27,15,1511.88,1600.66,Copa América,Brasília,Brazil,TRUE
+2021-07-10,Brazil,Argentina,81,86,80,82,80,80,0,1,3,8,1742.65,1641.06,Copa América,Rio de Janeiro,Brazil,FALSE
+2021-07-11,England,Italy,85,83,83,82,81,82,1,1,4,7,1686.78,1642.06,UEFA Euro,London,England,FALSE
+2021-07-18,United States,Canada,75,73,74,74,72,69,1,0,20,70,1555.42,1340.56,Gold Cup,Kansas City,United States,FALSE
+2021-07-29,Mexico,Canada,78,73,76,74,75,69,2,1,11,70,1629.56,1340.56,Gold Cup,Houston,United States,TRUE
+2021-08-01,United States,Mexico,75,78,74,76,72,75,1,0,20,11,1555.42,1629.56,Gold Cup,Las Vegas,United States,FALSE
+2021-09-01,Finland,Wales,70,77,71,74,68,72,0,0,56,19,1403.92,1567.29,Friendly,Helsinki,Finland,FALSE
+2021-09-01,Switzerland,Greece,75,72,78,75,77,72,2,1,14,48,1621.37,1427.04,Friendly,Basel,Switzerland,FALSE
+2021-09-01,Portugal,Republic of Ireland,85,71,82,72,82,75,2,1,8,47,1661.51,1429.44,FIFA World Cup qualification,Faro-Loulé,Portugal,FALSE
+2021-09-01,Denmark,Scotland,76,72,82,76,78,76,2,0,11,49,1642.28,1424.77,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+2021-09-01,Norway,Netherlands,79,81,77,83,74,83,1,1,43,12,1450.12,1637.48,FIFA World Cup qualification,Oslo,Norway,FALSE
+2021-09-02,Australia,China PR,71,74,71,68,71,70,3,0,35,71,1477.21,1352.68,FIFA World Cup qualification,Doha,Qatar,TRUE
+2021-09-02,Sweden,Spain,78,82,76,83,75,82,2,1,17,7,1606.79,1680.44,FIFA World Cup qualification,Stockholm,Sweden,FALSE
+2021-09-02,Italy,Bulgaria,83,67,82,68,82,66,1,1,5,75,1744.67,1334.83,FIFA World Cup qualification,Florence,Italy,FALSE
+2021-09-02,Hungary,England,72,85,69,83,72,81,0,4,37,4,1474.36,1752.83,FIFA World Cup qualification,Budapest,Hungary,FALSE
+2021-09-02,Iceland,Romania,70,72,71,74,69,71,0,2,53,45,1418.48,1439.7,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+2021-09-02,Bolivia,Colombia,59,81,66,79,66,77,1,1,82,15,1285.94,1617.67,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2021-09-02,Ecuador,Paraguay,74,72,72,74,75,72,2,0,55,33,1405.26,1483.49,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2021-09-02,Peru,Uruguay,71,79,73,79,71,78,1,1,22,13,1543.16,1634.63,FIFA World Cup qualification,Lima,Peru,FALSE
+2021-09-02,Venezuela,Argentina,74,86,70,82,69,80,1,3,40,6,1463.3,1714.43,FIFA World Cup qualification,Caracas,Venezuela,FALSE
+2021-09-02,Chile,Brazil,74,81,76,80,73,80,0,1,20,2,1557.81,1797.67,FIFA World Cup qualification,Santiago,Chile,FALSE
+2021-09-05,Switzerland,Italy,75,83,78,82,77,82,0,0,14,5,1621.37,1744.67,FIFA World Cup qualification,Basel,Switzerland,FALSE
+2021-09-05,Belgium,Czech Republic,85,76,83,76,81,76,3,0,1,31,1822.34,1492.65,FIFA World Cup qualification,Brussels,Belgium,FALSE
+2021-09-05,Ecuador,Chile,74,74,72,76,75,73,0,0,55,20,1405.26,1557.81,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2021-09-05,Paraguay,Colombia,72,81,74,79,72,77,1,1,33,15,1483.49,1617.67,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2021-09-05,Uruguay,Bolivia,79,59,79,66,78,66,4,2,13,82,1634.63,1285.94,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2021-09-05,Peru,Venezuela,71,74,73,70,71,69,1,0,22,40,1543.16,1463.3,FIFA World Cup qualification,Lima,Peru,FALSE
+2021-09-05,United States,Canada,75,73,74,74,72,69,1,1,10,59,1647.75,1399.35,FIFA World Cup qualification,Nashville,United States,FALSE
+2021-09-06,Ivory Coast,Cameroon,77,72,75,71,76,70,2,1,57,54,1402.9,1410.65,FIFA World Cup qualification,Abidjan,Ivory Coast,FALSE
+2021-09-07,France,Finland,87,70,85,71,82,68,2,0,3,56,1761.77,1403.92,FIFA World Cup qualification,Lyon,France,FALSE
+2021-09-07,Austria,Scotland,81,72,78,76,78,76,0,1,23,49,1535.12,1424.77,FIFA World Cup qualification,Vienna,Austria,FALSE
+2021-09-07,Netherlands,Turkey,81,79,83,76,83,75,6,1,12,39,1637.48,1463.91,FIFA World Cup qualification,Amsterdam,Netherlands,FALSE
+2021-09-08,Greece,Sweden,72,78,75,76,72,75,2,1,48,17,1427.04,1606.79,FIFA World Cup qualification,Athens,Greece,FALSE
+2021-09-08,Northern Ireland,Switzerland,67,75,71,78,71,77,0,0,51,14,1422.29,1621.37,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+2021-09-08,Poland,England,82,85,74,83,74,81,1,1,27,4,1516.27,1752.83,FIFA World Cup qualification,Warsaw,Poland,FALSE
+2021-09-08,Iceland,Germany,70,84,71,85,69,84,0,4,53,16,1418.48,1613.29,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+2021-09-09,Colombia,Chile,81,74,79,76,77,73,3,1,15,20,1617.67,1557.81,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2021-09-09,Paraguay,Venezuela,72,74,74,70,72,69,2,1,33,40,1483.49,1463.3,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2021-09-09,Uruguay,Ecuador,79,74,79,72,78,75,1,0,13,55,1634.63,1405.26,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2021-09-09,Argentina,Bolivia,86,59,82,66,80,66,3,0,6,82,1714.43,1285.94,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
+2021-09-09,Brazil,Peru,81,71,80,73,80,71,2,0,2,22,1797.67,1543.16,FIFA World Cup qualification,Recife,Brazil,FALSE
+2021-10-06,Italy,Spain,84,83,84,84,82,84,1,2,5,8,1735.73,1673.68,UEFA Nations League,Milan,Italy,FALSE
+2021-10-07,Mexico,Canada,79,73,78,74,74,69,1,1,9,51,1666.19,1416.23,FIFA World Cup qualification,Mexico City,Mexico,FALSE
+2021-10-07,Belgium,France,85,88,83,85,80,82,2,3,1,4,1832,1754.31,UEFA Nations League,Turin,Italy,TRUE
+2021-10-08,Czech Republic,Wales,77,75,76,74,74,69,2,2,31,19,1494.78,1563.59,FIFA World Cup qualification,Prague,Czech Republic,FALSE
+2021-10-08,Germany,Romania,84,72,85,72,80,70,2,1,14,42,1627.8,1451.8,FIFA World Cup qualification,Hamburg,Germany,FALSE
+2021-10-09,Finland,Ukraine,71,77,71,77,68,73,1,2,55,27,1406.92,1520.07,FIFA World Cup qualification,Helsinki,Finland,FALSE
+2021-10-10,Italy,Belgium,84,85,84,83,82,80,2,1,5,1,1753.73,1832.33,UEFA Nations League,Turin,Italy,FALSE
+2021-10-10,Spain,France,83,87,84,84,84,83,1,2,8,4,1673.68,1754.31,UEFA Nations League,Milan,Italy,TRUE
+2021-10-12,England,Hungary,87,73,83,70,84,74,1,1,3,40,1755.44,1456.93,FIFA World Cup qualification,London,England,FALSE
+2021-11-11,Republic of Ireland,Portugal,70,84,72,83,73,85,0,0,51,8,1430.59,1681.73,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2021-11-11,Greece,Spain,74,83,75,85,72,82,0,1,47,7,1434.83,1687.66,FIFA World Cup qualification,Athens,Greece,FALSE
+2021-11-11,Romania,Iceland,73,72,73,70,70,68,0,0,41,62,1451.76,1397.49,FIFA World Cup qualification,Bucharest,Romania,FALSE
+2021-11-12,United States,Mexico,73,81,75,75,73,74,2,0,13,9,1639.42,1672.92,FIFA World Cup qualification,Cincinnati,United States,FALSE
+2021-11-14,Spain,Sweden,83,78,85,77,82,75,1,0,7,17,1687.66,1618.69,FIFA World Cup qualification,Seville,Spain,FALSE
+2021-11-15,Northern Ireland,Italy,67,84,70,84,71,82,0,0,58,4,1412.21,1750.52,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+2021-11-15,Scotland,Denmark,73,76,76,81,75,79,2,0,42,10,1451.37,1668.98,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+2021-11-15,Poland,Hungary,80,73,75,70,74,73,1,2,23,43,1542.2,1449.08,FIFA World Cup qualification,Warsaw,Poland,FALSE
+2021-11-16,Canada,Mexico,76,81,74,77,68,76,2,1,48,9,1432.34,1672.92,FIFA World Cup qualification,Edmonton,Canada,FALSE
+2021-11-16,Finland,France,72,88,71,84,70,83,0,2,60,3,1403.96,1779.24,FIFA World Cup qualification,Helsinki,Finland,FALSE
+2021-11-16,Wales,Belgium,75,87,74,81,72,80,1,1,19,1,1566.77,1832.33,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2021-11-16,Netherlands,Norway,82,79,82,76,84,73,2,0,11,37,1652.01,1471.62,FIFA World Cup qualification,Rotterdam,Netherlands,FALSE
+2022-01-30,Canada,United States,77,74,74,74,70,74,2,0,40,11,1462.32,1648.51,FIFA World Cup qualification,Hamilton,Canada,FALSE
+2022-03-24,Mexico,United States,79,74,77,74,76,74,0,0,12,13,1647.9,1643.34,FIFA World Cup qualification,Mexico City,Mexico,FALSE
+2022-03-24,Sweden,Czech Republic,79,75,76,76,75,75,1,0,17,31,1588.26,1510.42,FIFA World Cup qualification,Stockholm,Sweden,FALSE
+2022-03-24,Wales,Austria,74,81,74,76,72,78,2,1,20,30,1578.01,1511.56,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2022-03-25,Romania,Greece,71,73,74,74,70,73,0,1,47,55,1453.18,1421.99,Friendly,Bucharest,Romania,FALSE
+2022-03-26,Finland,Iceland,72,71,72,70,67,70,1,1,57,60,1411.77,1382.81,Friendly,Murcia,Spain,TRUE
+2022-03-26,Netherlands,Denmark,81,76,82,81,84,79,4,2,10,9,1653.73,1654.54,Friendly,Amsterdam,Netherlands,FALSE
+2022-03-26,Republic of Ireland,Belgium,69,83,73,82,74,81,2,2,49,1,1444.29,1828.45,Friendly,Dublin,Republic of Ireland,FALSE
+2022-03-29,Poland,Sweden,81,79,76,76,78,75,2,0,28,17,1530.62,1588.26,FIFA World Cup qualification,Chorzów,Poland,FALSE
+2022-03-29,Austria,Scotland,81,76,76,76,78,76,2,2,30,40,1511.56,1471.82,Friendly,Vienna,Austria,FALSE
+2022-03-29,Netherlands,Germany,81,84,82,86,84,81,1,1,10,11,1653.73,1648.33,Friendly,Amsterdam,Netherlands,FALSE
+2022-03-29,Northern Ireland,Hungary,66,71,71,71,70,73,0,1,54,41,1424.97,1465.62,Friendly,Belfast,Northern Ireland,FALSE
+2022-03-29,Spain,Iceland,83,71,85,70,82,70,5,0,7,60,1704.75,1382.81,Friendly,La Coruña,Spain,FALSE
+2022-03-29,Wales,Czech Republic,74,75,74,76,72,75,1,1,20,31,1578.01,1510.42,Friendly,Cardiff,Wales,FALSE
+2022-06-01,Italy,Argentina,84,86,84,81,82,81,0,3,6,4,1723.31,1765.13,CONMEBOL–UEFA Cup of Champions,Paris,France,TRUE
+2022-06-01,Scotland,Ukraine,73,76,76,77,77,74,1,3,39,27,1472.66,1535.08,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+2022-06-01,Poland,Wales,81,74,74,74,75,72,2,1,26,18,1544.2,1588.08,UEFA Nations League,Wrocław,Poland,FALSE
+2022-06-02,Spain,Portugal,83,85,85,83,83,85,1,1,7,8,1709.19,1674.78,UEFA Nations League,Sevilla,Spain,FALSE
+2022-06-02,Northern Ireland,Greece,65,72,70,75,71,73,0,1,54,55,1423.55,1421.43,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2022-06-03,France,Denmark,85,77,86,79,83,78,1,2,3,11,1789.85,1653.6,UEFA Nations League,Paris,France,FALSE
+2022-06-03,Belgium,Netherlands,83,82,82,81,80,83,1,4,2,10,1827,1658.66,UEFA Nations League,Brussels,Belgium,FALSE
+2022-06-04,Hungary,England,75,85,69,83,73,82,1,0,40,5,1466.08,1761.71,UEFA Nations League,Budapest,Hungary,FALSE
+2022-06-04,Italy,Germany,84,83,84,85,82,81,1,1,6,12,1723.31,1650.53,UEFA Nations League,Bologna,Italy,FALSE
+2022-06-05,Wales,Ukraine,74,76,74,77,72,74,1,0,18,27,1588.08,1535.08,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2022-06-05,Czech Republic,Spain,79,83,76,85,76,83,2,2,33,7,1500.62,1709.19,UEFA Nations League,Prague,Czech Republic,FALSE
+2022-06-05,Sweden,Norway,79,81,76,76,75,74,1,2,19,41,1584.77,1463.5,UEFA Nations League,Stockholm,Sweden,FALSE
+2022-06-06,Austria,Denmark,79,77,78,79,77,78,1,2,34,11,1500.37,1653.6,UEFA Nations League,Vienna,Austria,FALSE
+2022-06-07,Germany,England,83,85,85,83,81,82,1,1,12,5,1650.53,1761.71,UEFA Nations League,Munich,Germany,FALSE
+2022-06-07,Italy,Hungary,84,75,84,69,82,73,2,1,6,40,1723.31,1466.08,UEFA Nations League,Cesena,Italy,FALSE
+2022-06-08,Wales,Netherlands,74,82,74,81,72,83,1,2,18,10,1588.08,1658.66,UEFA Nations League,Cardiff,Wales,FALSE
+2022-06-08,Belgium,Poland,83,81,82,74,80,75,6,1,2,26,1827,1544.2,UEFA Nations League,Brussels,Belgium,FALSE
+2022-06-08,Republic of Ireland,Ukraine,69,76,73,77,74,74,0,1,47,27,1449.48,1535.08,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2022-06-09,Portugal,Czech Republic,85,79,83,76,85,76,2,0,8,33,1674.78,1500.62,UEFA Nations League,Lisbon,Portugal,FALSE
+2022-06-10,Austria,France,79,85,78,86,77,83,1,1,34,3,1500.37,1789.85,UEFA Nations League,Vienna,Austria,FALSE
+2022-06-11,England,Italy,85,84,83,84,82,82,0,0,5,6,1761.71,1723.31,UEFA Nations League,Wolverhampton,England,FALSE
+2022-06-11,Hungary,Germany,75,83,69,85,73,81,1,1,40,12,1466.08,1650.53,UEFA Nations League,Budapest,Hungary,FALSE
+2022-06-11,Wales,Belgium,74,83,74,82,72,80,1,1,18,2,1588.08,1827,UEFA Nations League,Cardiff,Wales,FALSE
+2022-06-11,Netherlands,Poland,82,81,81,74,83,75,2,2,10,26,1658.66,1544.2,UEFA Nations League,Rotterdam,Netherlands,FALSE
+2022-06-11,Republic of Ireland,Scotland,69,73,73,76,74,77,3,0,47,39,1449.48,1472.66,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2022-06-11,Romania,Finland,72,72,72,72,68,67,1,0,48,57,1446.54,1406.87,UEFA Nations League,Bucharest,Romania,FALSE
+2022-06-12,Spain,Czech Republic,83,79,85,76,83,76,2,0,7,33,1709.19,1500.62,UEFA Nations League,Málaga,Spain,FALSE
+2022-06-12,Norway,Sweden,81,79,76,76,74,75,3,2,41,19,1463.5,1584.77,UEFA Nations League,Oslo,Norway,FALSE
+2022-06-13,Denmark,Austria,77,79,79,78,78,77,2,0,11,34,1653.6,1500.37,UEFA Nations League,Copenhagen,Denmark,FALSE
+2022-06-14,England,Hungary,85,75,83,69,82,73,0,4,5,40,1761.71,1466.08,UEFA Nations League,Wolverhampton,England,FALSE
+2022-06-14,Germany,Italy,83,84,85,84,81,82,5,2,12,6,1650.53,1723.31,UEFA Nations League,Mönchengladbach,Germany,FALSE
+2022-06-14,Netherlands,Wales,82,74,81,74,83,72,3,2,10,18,1658.66,1588.08,UEFA Nations League,Rotterdam,Netherlands,FALSE
+2022-06-14,Poland,Belgium,81,83,74,82,75,80,0,1,26,2,1544.2,1827,UEFA Nations League,Warsaw,Poland,FALSE
+2022-06-14,Ukraine,Republic of Ireland,76,69,77,73,74,74,1,1,27,47,1535.08,1449.48,UEFA Nations League,Łódź,Poland,TRUE
+2022-09-21,Scotland,Ukraine,73,76,76,77,77,74,3,0,45,27,1462.96,1542.79,UEFA Nations League,Glasgow,Scotland,FALSE
+2022-09-22,Australia,New Zealand,75,69,69,67,70,68,1,0,39,103,1483.73,1198.96,Friendly,Brisbane,Australia,FALSE
+2022-09-22,France,Austria,85,79,86,78,83,77,2,0,4,33,1764.85,1502.47,UEFA Nations League,Paris,France,FALSE
+2022-09-22,Belgium,Wales,83,74,82,74,80,72,2,1,2,19,1821.92,1582.13,UEFA Nations League,Brussels,Belgium,FALSE
+2022-09-22,Poland,Netherlands,81,82,74,81,75,83,0,2,26,8,1546.18,1679.41,UEFA Nations League,Warsaw,Poland,FALSE
+2022-09-23,Germany,Hungary,83,74,85,69,81,73,0,1,11,37,1658.96,1486.76,UEFA Nations League,Leipzig,Germany,FALSE
+2022-09-23,Italy,England,84,85,84,83,82,82,1,0,7,5,1713.86,1737.46,UEFA Nations League,Milan,Italy,FALSE
+2022-09-23,Finland,Romania,72,72,72,72,67,68,1,1,59,54,1398.41,1427.84,UEFA Nations League,Helsinki,Finland,FALSE
+2022-09-24,Czech Republic,Portugal,79,85,76,83,76,85,0,4,32,9,1502.9,1678.65,UEFA Nations League,Prague,Czech Republic,FALSE
+2022-09-24,Scotland,Republic of Ireland,73,69,76,73,77,74,2,1,45,47,1462.96,1442.48,UEFA Nations League,Glasgow,Scotland,FALSE
+2022-09-25,New Zealand,Australia,69,75,67,69,68,70,0,2,103,39,1198.96,1483.73,Friendly,Auckland,New Zealand,FALSE
+2022-09-25,Denmark,France,77,85,79,86,78,83,2,0,10,4,1665.47,1764.85,UEFA Nations League,Copenhagen,Denmark,FALSE
+2022-09-25,Wales,Poland,74,81,74,74,72,75,0,1,19,26,1582.13,1546.18,UEFA Nations League,Cardiff,Wales,FALSE
+2022-09-25,Netherlands,Belgium,82,83,81,82,83,80,1,0,8,2,1679.41,1821.92,UEFA Nations League,Amsterdam,Netherlands,FALSE
+2022-09-26,England,Germany,85,83,83,85,82,81,3,3,5,11,1737.46,1658.96,UEFA Nations League,London,England,FALSE
+2022-09-26,Hungary,Italy,74,84,69,84,73,82,0,2,37,7,1486.76,1713.86,UEFA Nations League,Budapest,Hungary,FALSE
+2022-09-27,Portugal,Spain,85,83,83,85,85,83,0,1,9,6,1678.65,1716.93,UEFA Nations League,Braga,Portugal,FALSE
+2022-09-27,Ukraine,Scotland,76,73,77,76,74,77,0,0,27,45,1542.79,1462.96,UEFA Nations League,Kraków,Poland,TRUE
+2022-09-27,Greece,Northern Ireland,72,65,75,70,73,71,3,1,49,58,1441.45,1399.1,UEFA Nations League,Athens,Greece,FALSE
+2022-11-20,Qatar,Ecuador,73,74,71,76,71,75,0,2,50,44,1439.89,1464.39,FIFA World Cup,Al Khor,Qatar,FALSE
+2022-11-21,England,Iran,86,81,83,72,83,72,6,2,5,20,1728.47,1564.61,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-21,Senegal,Netherlands,79,83,77,83,77,83,0,2,18,8,1584.38,1694.51,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-21,United States,Wales,77,78,78,76,76,77,1,1,16,19,1627.48,1569.82,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-22,Argentina,Saudi Arabia,85,71,83,72,83,71,1,2,3,51,1773.88,1437.78,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-22,Denmark,Tunisia,78,72,83,75,80,72,0,0,10,30,1666.57,1507.54,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-22,Mexico,Poland,79,80,77,76,76,76,0,0,13,26,1644.89,1548.59,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-22,France,Australia,86,72,84,72,83,71,4,1,4,38,1759.78,1488.72,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-23,Morocco,Croatia,76,83,74,82,78,78,0,0,22,12,1563.5,1645.64,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-11-23,Germany,Japan,84,75,85,78,83,76,1,2,11,24,1650.21,1559.54,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-23,Spain,Costa Rica,84,77,85,73,84,73,7,0,7,31,1715.22,1503.59,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-23,Belgium,Canada,82,75,83,78,81,72,1,0,2,41,1816.71,1475,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-24,Switzerland,Cameroon,77,75,78,75,78,73,1,0,15,43,1635.92,1471.44,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-24,Uruguay,South Korea,82,78,81,73,80,75,0,0,14,28,1638.71,1530.3,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-24,Portugal,Ghana,83,75,85,76,84,74,3,2,9,61,1676.56,1393,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-24,Brazil,Serbia,85,80,85,80,83,75,2,0,1,21,1841.3,1563.62,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-25,Wales,Iran,78,81,76,72,77,72,0,2,19,20,1569.82,1564.61,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-25,Qatar,Senegal,73,79,71,77,71,77,1,3,50,18,1439.89,1584.38,FIFA World Cup,Doha,Qatar,FALSE
+2022-11-25,Netherlands,Ecuador,83,74,83,76,83,75,1,1,8,44,1694.51,1464.39,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-25,England,United States,86,77,83,78,83,76,0,0,5,16,1728.47,1627.48,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-11-26,Tunisia,Australia,72,72,75,72,72,71,0,1,30,38,1507.54,1488.72,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-26,Poland,Saudi Arabia,80,71,76,72,76,71,2,0,26,51,1548.59,1437.78,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-26,France,Denmark,86,78,84,83,83,80,2,1,4,10,1759.78,1666.57,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-26,Argentina,Mexico,85,79,83,77,83,76,2,0,3,13,1773.88,1644.89,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-27,Japan,Costa Rica,75,77,78,73,76,73,0,1,24,31,1559.54,1503.59,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-27,Belgium,Morocco,82,76,83,74,81,78,0,2,2,22,1816.71,1563.5,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-27,Croatia,Canada,83,75,82,78,78,72,4,1,12,41,1645.64,1475,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-27,Spain,Germany,84,84,85,85,84,83,1,1,7,11,1715.22,1650.21,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-11-28,Cameroon,Serbia,75,80,75,80,73,75,3,3,43,21,1471.44,1563.62,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-28,South Korea,Ghana,78,75,73,76,75,74,2,3,28,61,1530.3,1393,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-28,Brazil,Switzerland,85,77,85,78,83,78,1,0,1,15,1841.3,1635.92,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-28,Portugal,Uruguay,83,82,85,81,84,80,2,0,9,14,1676.56,1638.71,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-29,Ecuador,Senegal,74,79,76,77,75,77,1,2,44,18,1464.39,1584.38,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-29,Netherlands,Qatar,83,73,83,71,83,71,2,0,8,50,1694.51,1439.89,FIFA World Cup,Al Khor,Qatar,FALSE
+2022-11-29,Iran,United States,81,77,72,78,72,76,0,1,20,16,1564.61,1627.48,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-29,Wales,England,78,86,76,83,77,83,0,3,19,5,1569.82,1728.47,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-30,Tunisia,France,72,86,75,84,72,83,1,0,30,4,1507.54,1759.78,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-30,Australia,Denmark,72,78,72,83,71,80,1,0,38,10,1488.72,1666.57,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-30,Poland,Argentina,80,85,76,83,76,83,0,2,26,3,1548.59,1773.88,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-30,Saudi Arabia,Mexico,71,79,72,77,71,76,1,2,51,13,1437.78,1644.89,FIFA World Cup,Lusail,Qatar,TRUE
+2022-12-01,Croatia,Belgium,83,82,82,83,78,81,0,0,12,2,1645.64,1816.71,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-01,Canada,Morocco,75,76,78,74,72,78,1,2,41,22,1475,1563.5,FIFA World Cup,Doha,Qatar,TRUE
+2022-12-01,Japan,Spain,75,84,78,85,76,84,2,1,24,7,1559.54,1715.22,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-01,Costa Rica,Germany,77,84,73,85,73,83,2,4,31,11,1503.59,1650.21,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-12-02,South Korea,Portugal,78,83,73,85,75,84,2,1,28,9,1530.3,1676.56,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-02,Ghana,Uruguay,75,82,76,81,74,80,0,2,61,14,1393,1638.71,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-12-02,Serbia,Switzerland,80,77,80,78,75,78,2,3,21,15,1563.62,1635.92,FIFA World Cup,Doha,Qatar,TRUE
+2022-12-02,Cameroon,Brazil,75,85,75,85,73,83,1,0,43,1,1471.44,1841.3,FIFA World Cup,Lusail,Qatar,TRUE

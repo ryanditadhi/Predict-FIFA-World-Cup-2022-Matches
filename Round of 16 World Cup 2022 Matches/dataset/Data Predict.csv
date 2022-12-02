@@ -1,0 +1,9 @@
+date,home_team,away_team,home_att,away_att,home_mid,away_mid,home_def,away_def,home_rank,away_rank,home_rankpoint,away_rankpoint,tournament,city,country,neutral
+2022-12-03,Netherlands,United States,83,77,83,78,83,76,8,16,1694.51,1627.48,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-03,Argentina,Australia,85,72,83,72,83,71,3,38,1773.88,1488.72,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-04,France,Poland,86,80,84,76,83,76,4,26,1759.78,1548.59,FIFA World Cup,Doha,Qatar,TRUE
+2022-12-04,England,Senegal,86,79,83,77,83,77,5,18,1728.47,1584.38,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-12-05,Japan,Croatia,75,83,78,82,76,78,24,12,1559.54,1645.64,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-12-05,Brazil,South Korea,85,78,85,73,83,75,1,28,1841.3,1530.3,FIFA World Cup,Doha,Qatar,TRUE
+2022-12-06,Morocco,Spain,76,84,74,85,78,84,22,7,1563.5,1715.22,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-06,Portugal,Switzerland,83,77,85,78,84,78,9,15,1676.56,1635.92,FIFA World Cup,Lusail,Qatar,TRUE
