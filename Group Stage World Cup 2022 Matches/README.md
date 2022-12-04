@@ -52,3 +52,10 @@ Group H:
 
 
 Disclaimer: Not for betting! Just for Fun
+
+**Evaluation Analysis**
+---------------
+Confusion Matrix:
+
+Validation accuracy:
+45.83%
