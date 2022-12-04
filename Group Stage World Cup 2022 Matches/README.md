@@ -56,6 +56,6 @@ Disclaimer: Not for betting! Just for Fun
 **Evaluation Analysis**
 ---------------
 Confusion Matrix:
-
+![alt text](https://github.com/ryanditadhi/Predict-FIFA-World-Cup-2022-Matches/blob/main/Group%20Stage%20World%20Cup%202022%20Matches/gs_confusionmatrix.jpg?raw=true)
 Validation accuracy:
 45.83%
