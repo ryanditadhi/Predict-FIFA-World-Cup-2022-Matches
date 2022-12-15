@@ -16,6 +16,6 @@ Disclaimer: Not for betting! Just for Fun
 **Evaluation Analysis**
 ---------------
 Confusion Matrix:
-![alt text]()
+![alt text](https://github.com/ryanditadhi/Predict-FIFA-World-Cup-2022-Matches/blob/main/Semi-finals%20World%20Cup%202022%20Matches/sf_confusionmatrix.jpg)
 Validation accuracy:
 100%
