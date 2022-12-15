@@ -18,4 +18,4 @@ Disclaimer: Not for betting! Just for Fun
 Confusion Matrix:
 ![alt text]()
 Validation accuracy:
-
+100%
