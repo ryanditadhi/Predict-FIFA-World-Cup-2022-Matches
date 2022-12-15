@@ -1,6 +1,6 @@
-Predict Quarter-finals World Cup 2022 Matches
+Predict Semi-finals World Cup 2022 Matches
 ===============
-Here we will predict matches in the world cup quarter-finals.
+Here we will predict matches in the world cup semi-finals.
 
 **Summary Final Prediction Matches to Third place play-off and Final**
 ---------------
