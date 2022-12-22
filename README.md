@@ -7,4 +7,4 @@ I was using data from:
 - [FIFA Men's Ranking](https://www.fifa.com/fifa-world-ranking/men), rank team and rank team points
 - [International Matches from 2018 to 2022](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017)
 
-Average Accuracy Score: 0.59375
+Average Accuracy Score: 59.375%
