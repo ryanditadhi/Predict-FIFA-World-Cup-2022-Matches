@@ -1,6 +1,6 @@
 # Predict FIFA World Cup 2022 Matches
 
-This is my prediction FIFA World Cup 2022 Matches using supervised learning
+This is my prediction FIFA World Cup 2022 Matches using supervised learning deep neural network
 --
 I was using data from:
 - FIFA 19, FIFA 20, FIFA 21, FIFA 22, FIFA 23 (Video Game), ATT-MID-DEF ratings team from [fifaratings](https://www.fifaratings.com)
