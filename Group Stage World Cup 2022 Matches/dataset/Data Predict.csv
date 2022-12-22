@@ -1,0 +1,49 @@
+date,home_team,away_team,home_att,away_att,home_mid,away_mid,home_def,away_def,home_rank,away_rank,home_rankpoint,away_rankpoint,tournament,city,country,neutral
+2022-11-20,Qatar,Ecuador,73,75,71,75,71,75,50,44,1439.89,1464.39,FIFA World Cup,Al Khor,Qatar,FALSE
+2022-11-21,England,Iran,86,81,83,73,83,72,5,20,1728.47,1564.61,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-21,Senegal,Netherlands,79,82,76,82,77,83,18,8,1584.38,1694.51,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-21,United States,Wales,77,78,78,76,76,77,16,19,1627.48,1569.82,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-22,Argentina,Saudi Arabia,86,71,84,72,82,71,3,51,1773.88,1437.78,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-22,Denmark,Tunisia,77,72,83,75,80,71,10,30,1666.57,1507.54,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-22,Mexico,Poland,79,81,77,75,77,75,13,26,1644.89,1548.59,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-22,France,Australia,86,72,82,72,82,71,4,38,1759.78,1488.72,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-23,Morocco,Croatia,79,80,73,83,78,80,22,12,1563.5,1645.64,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-11-23,Germany,Japan,84,75,85,77,82,76,11,24,1650.21,1559.54,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-23,Spain,Costa Rica,83,73,85,73,83,74,7,31,1715.22,1503.59,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-23,Belgium,Canada,84,75,81,78,79,72,2,41,1816.71,1475,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-24,Switzerland,Cameroon,77,75,78,75,76,72,15,43,1635.92,1471.44,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-24,Uruguay,South Korea,81,79,82,74,79,75,14,28,1638.71,1530.3,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-24,Portugal,Ghana,83,81,83,76,84,75,9,61,1676.56,1393,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-24,Brazil,Serbia,85,80,85,80,83,75,1,21,1841.3,1563.62,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-25,Wales,Iran,78,81,76,73,77,72,19,20,1569.82,1564.61,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-25,Qatar,Senegal,73,79,71,76,71,77,50,18,1439.89,1584.38,FIFA World Cup,Doha,Qatar,FALSE
+2022-11-25,Netherlands,Ecuador,82,75,82,75,83,75,8,44,1694.51,1464.39,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-25,England,United States,86,77,83,78,83,76,5,16,1728.47,1627.48,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-11-26,Tunisia,Australia,72,72,75,72,71,71,30,38,1507.54,1488.72,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-26,Poland,Saudi Arabia,81,71,75,72,75,71,26,51,1548.59,1437.78,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-26,France,Denmark,86,77,82,83,82,80,4,10,1759.78,1666.57,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-26,Argentina,Mexico,86,79,84,77,82,77,3,13,1773.88,1644.89,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-27,Japan,Costa Rica,75,73,77,73,76,74,24,31,1559.54,1503.59,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-27,Belgium,Morocco,84,79,81,73,79,78,2,22,1816.71,1563.5,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-27,Croatia,Canada,80,75,83,78,78,72,12,41,1645.64,1475,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-27,Spain,Germany,83,84,85,85,83,82,7,11,1715.22,1650.21,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-11-28,Cameroon,Serbia,75,80,75,80,72,75,43,21,1471.44,1563.62,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-28,South Korea,Ghana,79,81,74,76,75,75,28,61,1530.3,1393,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-28,Brazil,Switzerland,85,77,85,78,83,78,1,15,1841.3,1635.92,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-28,Portugal,Uruguay,83,81,83,82,84,79,9,14,1676.56,1638.71,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-29,Ecuador,Senegal,75,79,75,76,75,77,44,18,1464.39,1584.38,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-29,Netherlands,Qatar,82,73,82,71,83,71,8,50,1694.51,1439.89,FIFA World Cup,Al Khor,Qatar,FALSE
+2022-11-29,Iran,United States,81,77,73,78,72,76,20,16,1564.61,1627.48,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-29,Wales,England,78,86,76,83,77,83,19,5,1569.82,1728.47,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-30,Tunisia,France,72,86,75,82,71,82,30,4,1507.54,1759.78,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-30,Australia,Denmark,72,77,72,83,71,80,38,10,1488.72,1666.57,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-30,Poland,Argentina,81,86,75,84,75,82,26,3,1548.59,1773.88,FIFA World Cup,Doha,Qatar,TRUE
+2022-11-30,Saudi Arabia,Mexico,71,79,72,77,71,77,51,13,1437.78,1644.89,FIFA World Cup,Lusail,Qatar,TRUE
+2022-12-01,Croatia,Belgium,80,84,83,81,78,79,12,2,1645.64,1816.71,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-01,Canada,Morocco,75,79,78,73,72,78,41,22,1475,1563.5,FIFA World Cup,Doha,Qatar,TRUE
+2022-12-01,Japan,Spain,75,83,77,85,76,83,24,7,1559.54,1715.22,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-01,Costa Rica,Germany,73,84,73,85,74,82,31,11,1503.59,1650.21,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-12-02,South Korea,Portugal,79,83,74,83,75,84,28,9,1530.3,1676.56,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-02,Ghana,Uruguay,81,81,76,82,75,79,61,14,1393,1638.71,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-12-02,Serbia,Switzerland,80,77,80,78,75,78,21,15,1563.62,1635.92,FIFA World Cup,Doha,Qatar,TRUE
+2022-12-02,Cameroon,Brazil,75,85,75,85,72,83,43,1,1471.44,1841.3,FIFA World Cup,Lusail,Qatar,TRUE
