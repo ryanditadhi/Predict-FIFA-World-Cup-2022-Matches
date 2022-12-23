@@ -12,9 +12,9 @@ Group A:
 
 Group B:
 1. England&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9
-2. United States&nbsp;&nbsp;&nbsp;6
-3. Iran&nbsp;&nbsp;3
-4. Wales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0
+2. United States&nbsp;&nbsp;6
+3. Iran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3
+4. Wales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0
 
 Group C:
 1. Argentina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9
